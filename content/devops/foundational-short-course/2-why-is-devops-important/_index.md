@@ -4,13 +4,24 @@ ready: true
 title: Why is DevOps important?
 ---
 
-Before DevOps, a major methodology of developing software was used: waterfall. It consists of breaking down the development process into sequential, linear tasks, executing one after another and never reviewing a task after it is completed. It flows steadily downwards, like a waterfall.
+In the past, a major methodology of developing software was used: waterfall. It consists of breaking down the development process into sequential, linear tasks, executing one after another and never reviewing a task after it is completed. It flows steadily downwards, like a waterfall.
 
 It entails a long planning phase, with strict time schedule, budget, and implementation of the entire project in one shot. Also, it brings strict documentation, a very formal review process, and sign off from IT ops between every phase.
 
-In one word, it is **inflexible**. Project's demands change, teams change, budget changes, feature changes, management changes. Everything is very dynamic (and unstable!) throughout the software development process and DevOps came as a different way to think about it.
+In one word, it is **inflexible**. Project's demands change, teams change, budget changes, feature changes, management changes. Everything is very dynamic (and unstable!) throughout the software development process.
 
-DevOps became a thing in the late 2000s as a response for the inflexibility when developing software. The term was coined by Patrick Debois in 2009, when he organized the first DevOpsDays conference in Ghent, Belgium. Here the term became a buzzword. 
+To overcome those issues, the Agile development emerged as a new way of thinking about project management. It is a cornerstone of DevOps.
+
+Read more about Agile here:
+- [What is Agile methodology? (A beginner’s guide)](https://asana.com/pt/resources/agile-methodology)
+
+DevOps became a thing in the late 2000s as a response for the inflexibility when developing software, tearing down the walls between different teams, enabling more collaboration, shared responsibility, shorter feedback loops and better software.
+
+Read more about how Agile and DevOps work together:
+- [DevOps and Agile: Understanding the Relationship](https://cloudacademy.com/blog/devops-agile-relationship/)
+- [DevOps vs. Agile](https://www.atlassian.com/devops/what-is-devops/agile-vs-devops)
+
+The term was coined by Patrick Debois in 2009, when he organized the first DevOpsDays conference in Ghent, Belgium. Here the term became a buzzword. 
 
 There are DevOpsDays conferences all around the world now! You can check them here: https://devopsdays.org/.
 
