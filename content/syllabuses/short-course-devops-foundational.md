@@ -10,6 +10,25 @@ Learners should spend 4 to 6 hours every week on self paced learning, including 
 
 ## General information
 
+### Tilde
+Tilde is our central place of work. It is a kanban board, review system, progress checker.
+
+### Syllabus 
+Where all the studying material lives. The content from the Syllabus becomes cards on Tilde.
+
+### Instant messaging
+We will have a chat system somewhere (like Slack, Discord, Teams).
+
+It will be used for announcements, links, extra content etc.
+
+Questions should be made on Hesk!
+
+### Hesk
+A place to ask anything related to course content, Umuzi tooling, due dates, general information etc.
+
+### Recordings
+All sessions will be recorded and be readily available.
+
 ### Group session structure
 We will have two 1h group sessions per week. They will mostly follow the structure below:
 
@@ -69,7 +88,11 @@ After that, we will breakdown the group and work through the DevOps scenarios fr
 #### Session #1
 > ❗ **Read through the whole content before session #1!**
 
-We will chat a about IT components, date centers and the cloud.
+We will chat a about IT components, date centers and the cloud. Answer and review any questions.
+
+During the session, we will breakdown the room into multiple rooms to design a virtual data center.
 
 #### Session #2
-Let's chat about infrastructure models.
+Let's chat about infrastructure models. Answer and review questions.
+
+We will have a group activity to understand how to deploy a simple app on different infrastructure models.

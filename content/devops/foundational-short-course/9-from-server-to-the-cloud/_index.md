@@ -20,8 +20,9 @@ A server is built with some key features in mind:
 - Size: architectured to fit in a _server rack_.
 
 Know more about servers:
-- https://www.serverwatch.com/guides/what-is-a-server/
-- https://en.wikipedia.org/wiki/Server_(computing)
+- [What is a Server?](https://www.serverwatch.com/guides/what-is-a-server/)
+- [Server (computing)](https://en.wikipedia.org/wiki/Server_(computing))
+- [What is a Server? Servers vs Desktops Explained](https://www.youtube.com/watch?v=UjCDWCeHCzY)
 
 **What if a server goes down?** Nowadays we expect services to be available all the time, 27/4. One way we can achieve this is by having a _service_ running on multiple servers, creating a highly available environment. It also shares the service load between servers, so we can add more servers when more resources (CPU, memory, disk) are needed.
 
@@ -31,7 +32,11 @@ We connect the servers using **network hardware**, like network interfaces, swit
 In a very simplistic way, **the Internet** is the interconnection between _lots and lots_ of these networks, which, in turn, connect the servers hosting services to their end users.
 
 Know more about networks:
-- https://en.wikipedia.org/wiki/Computer_network
+- [Computer Network](https://en.wikipedia.org/wiki/Computer_network)
+- [Computer Networking in 100 Seconds](https://www.youtube.com/watch?v=keeqnciDVOo)
+- [Demystifying Computer Networks: LAN, WAN, Routers, Switches, and Modems Explained! Begrepen.be](https://www.youtube.com/watch?v=cD5DX8lvk9Q)
+- [What is an IP Address](https://www.youtube.com/watch?v=5WfiTHiU4x8)
+- [What is OSI Model](https://www.youtube.com/watch?v=0y6FtKsg6J4)
 
 ## Storage
 Let’s say we are hosting a simple web page from 10 different servers. What happens if the page needs to be updated? Shall we change the web page files in all 10 servers?
@@ -39,6 +44,10 @@ Let’s say we are hosting a simple web page from 10 different servers. What hap
 Another important piece of IT infrastructure are **storage servers**. They are highly specialized computers attached to the network, used to store and share data between servers. They have their own key features, like fault tolerant disks, communication protocols, network hardware etc.
 
 When connected to the network, they can provide a single point of access to data shared between servers. In our previous example, we would need to change our web page in one single location, accessible by all the servers.
+
+Know more:
+- [NAS vs SAN](https://www.youtube.com/watch?v=3yZDDr0JKVc)
+- [What is RAID](https://www.youtube.com/watch?v=U-OCdTeZLac)
 
 ## Electrical power
 We now have a bunch of servers, network appliances and storages in our, let’s call, "server room".
@@ -50,7 +59,7 @@ Some servers will also have redundant energy systems: they can be connected to d
 Another strategy is to have in-house backup power generators, commonly powered by gas, diesel or solar energy.
 
 Know more about UPS:
-- https://en.wikipedia.org/wiki/Uninterruptible_power_supply
+- [Uninterruptible power supply](https://en.wikipedia.org/wiki/Uninterruptible_power_supply)
 
 ## Cooling
 All these components together will certainly generate one thing: heat. Another key design decision is how one will create an environment with specific temperature and humidity to not overheat servers, network, storage, power supplies – and the people working on these buildings.

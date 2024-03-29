@@ -43,6 +43,7 @@ Nowadays we have technology to virtualize other IT components as well, like stor
 
 Know more:  
 - [The two types of hypervisor](https://en.wikipedia.org/wiki/Hypervisor#Classification)  
+- [Virtual Machines explained in 15 Mins](https://www.youtube.com/watch?v=mQP0wqNT_DI)
 
 The benefits of virtualization over bare metal include:  
 - **Efficient resource use**: one server can run multiple VMs with different applications, better using its resources and having fewer physical machines.  
@@ -103,3 +104,4 @@ Main Serverless (FaaS) technologies:
 
 Known more:  
 - [What is Serverless?](https://www.youtube.com/watch?v=vxJobGtqKVM)
+- [Architect and Build an End-to-End AWS Web Application from Scratch, Step by Step](https://www.youtube.com/watch?v=7m_q1ldzw0U)
