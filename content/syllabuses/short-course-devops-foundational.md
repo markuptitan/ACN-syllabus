@@ -24,11 +24,6 @@ We will have two 1h group sessions per week. They will mostly follow the structu
 
 The week's tasks and quizzes must be sent by latest on Sunday.
 
-### How to submit answers to the conceptual questions
-Through out the course we will have conceptual questions requiring written answers. Follow the the instructions below to submit them:
-
-{{< contentlink path="project-submission-instructions/markdown-questions" >}}.
-
 ## Course Content
 
 ### Week 0: Introduction to Umuzi

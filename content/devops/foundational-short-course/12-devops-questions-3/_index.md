@@ -8,6 +8,12 @@ submission_type: repo
 title: 'DevOps Questions #3'
 ---
 
+## How to submit answers to the conceptual questions
+Follow the the instructions below to submit the answers:
+
+{{< contentlink path="project-submission-instructions/markdown-questions" >}}.
+
+## Questions
 1. Describe the challenges and solutions associated with ensuring the security and reliability of data centers, especially in the face of natural disasters or cyberattacks.
 
 2. What are some innovative approaches to sustainable data center design?
