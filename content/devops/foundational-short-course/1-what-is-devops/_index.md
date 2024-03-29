@@ -12,7 +12,7 @@ It also expands to other teams within an organisation, like designers, product m
 
 DevOps builds on top of Agile (breaking large software development projects into smaller tasks, leading to faster build, test and feedback cycles) to consolidate historical siloed teams – developers and operations.
 
-### Other “xOps”: DevSecOps, DataOps.
+## Other “xOps”: DevSecOps, DataOps.
 
 **DevSecOps**: another culture mindset, now including the security IT teams into the DevOps methodology, taking security into consideration throughout the whole software development process. The practices include managing: standard environments, access and privileges, system’s isolation, cryptography, data encryption, system’s integrity, bug bounty, automate security tests during continuous integrations etc.
 
