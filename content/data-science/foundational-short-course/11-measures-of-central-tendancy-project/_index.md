@@ -4,9 +4,9 @@ flavours:
 - python
 prerequisites:
   hard:
-  - content/data_science/3_introduction_to_statistics/measures_of_central_tendency_questions
+  - data_science/3_introduction_to_statistics/measures_of_central_tendency_questions
   soft: []
-protect_main_branch: false
+protect_main_branch: true
 ready: true
 submission_type: repo
 title: Measures of Central Tendency - Project

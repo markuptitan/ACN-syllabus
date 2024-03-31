@@ -1,14 +1,13 @@
 ---
-_db_id: 142
 content_type: topic
 title: Git and GitHub
 ---
 
 ## Understanding the Basics of Using Git and GitHub
 
-Welcome to this short course designed to introduce professionals to the fundamental concepts of using Git and GitHub in the fields of data science and DevOps. In this summary, we'll cover the essential aspects of Git and GitHub, providing you with the knowledge and skills to effectively manage version control and collaborate on projects.
+In this topic, we'll cover the essential aspects of Git and GitHub, providing you with the knowledge and skills to effectively manage version control and collaborate on projects.
 
-### 1. Introduction to Git:
+### 1. Introduction to Git
 
 Git is a distributed version control system that allows developers to track changes in their codebase over time. It offers a range of features to facilitate collaboration and streamline the development process. Here's a breakdown of the key concepts:
 
@@ -20,7 +19,7 @@ Git is a distributed version control system that allows developers to track chan
 
 -**Speed and Efficiency**: Git is designed for speed and efficiency, allowing you to perform operations like committing, branching, and merging quickly, even with large codebases. This helps to streamline the development process and improve productivity.
 
-### 2. Introduction to GitHub:
+### 2. Introduction to GitHub
 
 GitHub is a web-based platform built on top of Git, offering additional features for collaboration and project management. It serves as a central hub for developers to host their Git repositories and collaborate with others. Here's what you need to know about GitHub:
 

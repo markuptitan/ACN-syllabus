@@ -1,5 +1,4 @@
 ---
-_db_id: 105
 title: Datascience short course 1
 ---
 
@@ -15,10 +14,10 @@ Learners doing this course should first do the "Intro to Tilde for non-coder boo
 - {{< contentlink path="medium-touch-course-common/0-how-this-course-works" >}}
 - {{< contentlink path="data-science/foundational-short-course/1-what-is-data-science" >}}
 - {{< contentlink path="data-science/foundational-short-course/2-the-data-science-method" >}}
-- {{< contentlink path="topics/git/git-summary">}}
-- {{< contentlink path="content/topics/git/setting-up-git" >}}
-- {{< contentlink path="content/topics/git/git-introduction" >}}
 - {{< contentlink path="data-science/foundational-short-course/3-why-python-and-git" >}}
+- {{< contentlink path="topics/git/git-summary">}}
+- {{< contentlink path="topics/git/setting-up-git" >}}
+- {{< contentlink path="topics/git/git-introduction" >}}
 - {{< contentlink path="coding_aptitude_assessment/introduction_to_github" >}}
 - {{< contentlink path="projects/tilde/basic-repo-card-tutorial" flavour="" >}}
 - {{< contentlink path="data-science/foundational-short-course/4-what-is-data-science-questions" >}}

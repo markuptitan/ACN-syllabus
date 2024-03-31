@@ -1,9 +1,8 @@
 ---
 title: Measures of Dispersion - questions
 content_type: project
-ready: true
 
-protect_main_branch: false
+protect_main_branch: true
 ready: true
 submission_type: repo
 flavours:

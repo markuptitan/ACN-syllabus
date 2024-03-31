@@ -1,8 +1,14 @@
 ---
 content_type: topic
 title: "Introduction to Git and GitHub Part: 2"
+prerequisites:
+  hard:
+  - topics/git/setting-up-git
+  soft: []
 ready: True
 ---
+
+In this topic, we will be covering a few of the more common commands that are used regularly along with their uses.
 
 ## Navigating Through Git Commands
 

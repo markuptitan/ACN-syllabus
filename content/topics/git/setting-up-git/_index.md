@@ -4,7 +4,7 @@ title: "Introduction to Git and GitHub Part: 1"
 ready: True
 ---
 
-# Introduction to Git and GitHub
+## Introduction to Git and GitHub
 
 Git is a free, open-source version control system that's designed to manage projects of all sizes with speed and efficiency. GitHub, meanwhile, is a cloud-based service that lets you host Git repositories. While Git tracks the changes in your files, GitHub provides a platform for sharing those files and collaborating with others.
 
