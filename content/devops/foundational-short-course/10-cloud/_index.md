@@ -1,4 +1,5 @@
 ---
+_db_id: 1065
 content_type: topic
 ready: true
 title: The Cloud
@@ -53,4 +54,4 @@ Read more:
 Know more:  
 - [Cloud Deployment Models](https://www.geeksforgeeks.org/cloud-deployment-models/)  
 - [Multicloud](https://en.wikipedia.org/wiki/Multicloud)
-- [What is multicloud?](https://cloud.google.com/learn/what-is-multicloud)  
+- [What is multicloud?](https://cloud.google.com/learn/what-is-multicloud)
