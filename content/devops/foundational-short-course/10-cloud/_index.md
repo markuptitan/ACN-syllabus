@@ -5,11 +5,15 @@ ready: true
 title: The Cloud
 ---
 
-Cloud is the ability to consume computer system resources by demand, with a pay-as-you-go pricing model.
+Cloud computing is the ability to consume computer system resources (such as servers and storage) over the Internet, with a pay-as-you-go pricing model.
+
+Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider.
 
 At the end of the day, "the cloud" is a set of interconnected data centers across the globe. The cloud metaphor is quite ephemeral, but its resources are very earthy.
 
 Read more:  
+- [What is Cloud Computing (GCP)](https://cloud.google.com/learn/what-is-cloud-computing)
+- [What is Cloud Computing (AWS)](https://aws.amazon.com/what-is-cloud-computing/?nc1=h_ls)
 - [Early history of Cloud Computing](https://en.wikipedia.org/wiki/History_of_cloud_computing#Early_history)  
 - [History of AWS](https://en.wikipedia.org/wiki/Amazon_Web_Services#History)  
 - [The NIST Definition of Cloud Computing](https://csrc.nist.gov/pubs/sp/800/145/final)  

@@ -13,7 +13,7 @@ Everything begins with a **server**: a specially designed computer providing ser
 
 ## Server
 A server is built with some key features in mind:
-- Reliability: they should run with as little downtime as possible, so most components are redundant.
+- Reliability: they should run with as little downtime as possible, so most server's components are designed with redundancy in mind, in case anything breaks.
 - Scalability: multiple CPU, memory and disk sockets.
 - Remote Management: able to be accessed and managed remotely via a network, even without an operating system.
 - High performance: powerful components that can be optimized for specific applications, like data processing, virtualization, training machine learning modules, rendering videos etc.
@@ -72,7 +72,7 @@ Different considerations and strategies can be taken:
 - Where is the room located? Colder regions (Nordic countries, arctic) might require less cooling equipment.
 
 ## People
-A lot of people are needed to keep the lights up in this building: managers, engineers, architects, support, security, cleaning, logistics.
+A lot of people are needed to keep the lights on in this building: managers, engineers, architects, support, security, cleaning, logistics.
 
 ## Data center
 This building has an official name: a data center. A physical space within a building (or a group of buildings) dedicated to computing systems and associated equipment, like network, storage and telecommunications.
