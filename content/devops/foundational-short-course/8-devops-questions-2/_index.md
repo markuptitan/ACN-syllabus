@@ -15,6 +15,6 @@ Follow the the instructions below to submit the answers:
 {{< contentlink path="project-submission-instructions/markdown-questions" >}}.
 
 ## Questions
-4. Can you list and describe the DevOps-type activities/tasks that you and your peers engage with?
-5. In your team at work, what software development processes could be streamlined in an Internal Developer Platform?
-6. Are there any tools that you heard about in this course that you are not using yet but that would be useful in your day-to-day work? Please explain.
+1. Can you list and describe the DevOps-type activities/tasks that you and your peers engage with?
+2. In your team at work, what software development processes could be streamlined in an Internal Developer Platform?
+3. Are there any tools that you heard about in this course that you are not using yet but that would be useful in your day-to-day work? Please explain.
