@@ -33,14 +33,8 @@ All sessions will be recorded and be readily available.
 ### Group session structure
 We will have two 1h group sessions per week. They will mostly follow the structure below:
 
-#### Session 1
-- Review tasks and questions from last week
-- Workshop: the facilitator will present concepts, explain the content, ask questions, give answers, open a dialogue with the learners, demonstrate practical concepts
-- Task and homework: give the learners a task to do during the session, to be finished at home if needed and what tasks should be done at home
-
-#### Session 2
-- Workshop: same as above
-- Task and homework: same as above
+- Chat about tasks and questions from last week
+- Conceptual session: the learners will be broken into groups and given a conceptual question or problem to work on for a specific amount of time. Once the time is up, the learners will be brought back to the main room and present their solutions.
 
 The week's tasks and quizzes must be sent by latest on Sunday.
 
@@ -73,12 +67,12 @@ Welcome to Umuzi session.
 
 The first session will have introductions between learners and facilitators, how the course is structured, calendar etc.
 
-Then we will chat a about DevOps and create groups to analyse some case studies from {{< contentlink path="devops/foundational-short-course/4-devops-questions-1" >}}.
+Then we will chat about DevOps and break the room into multiple groups to analyse some case studies.
 
 #### Session #2
-Let's review the case studies analyses from last session, chat about DevOps practices, teams, tooling and Platform Engineering.
+Chat about the week's questions and tasks.
 
-After that, we will breakdown the group and work through the DevOps scenarios from {{< contentlink path="devops/foundational-short-course/8-devops-questions-2" >}}.
+After that, we will breakdown the group and work through some DevOps scenarios.
 
 ### Week 2: Infrastructure Components
 - {{< contentlink path="devops/foundational-short-course/9-from-server-to-the-cloud" >}}
@@ -89,11 +83,11 @@ After that, we will breakdown the group and work through the DevOps scenarios fr
 #### Session #1
 > ❗ **Read through the whole content before session #1!**
 
-We will chat a about IT components, date centers and the cloud. Answer and review any questions.
+Chat about the week's questions and tasks.
 
-During the session, we will breakdown the room into multiple rooms to design a virtual data center.
+During the session, we will breakdown the room into multiple rooms to work on a conceptual or practical problem.
 
 #### Session #2
-Let's chat about infrastructure models. Answer and review questions.
+Chat about the week's questions and tasks.
 
-We will have a group activity to understand how to deploy a simple app on different infrastructure models.
+During the session, we will breakdown the room into multiple rooms to work on a conceptual or practical problem.

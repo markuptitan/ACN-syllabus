@@ -8,7 +8,7 @@ title: DevOps Tooling
 ## Collaboration and communication
 Slack, Trello, Jira, Drive, Miro, Excalidraw. 
 
-## Source code and version control:
+## Source code and version control
 Git, Gitea, GitHub, GitLab.
 
 ## Cloud platforms
