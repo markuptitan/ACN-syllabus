@@ -1,7 +1,8 @@
 ---
-title: "Why Python and Git"
-ready: True
+_db_id: 1087
 content_type: topic
+ready: true
+title: Why Python and Git
 ---
 
 Data science is about statistics, insights, knowledge. Data science is made possible by a set of tools.

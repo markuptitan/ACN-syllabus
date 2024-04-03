@@ -1,7 +1,8 @@
 ---
-title: Skewness and Kurtosis
+_db_id: 1076
 content_type: topic
 ready: true
+title: Skewness and Kurtosis
 ---
 
 Please read through the following:

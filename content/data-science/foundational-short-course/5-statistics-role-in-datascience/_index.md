@@ -1,9 +1,9 @@
 ---
-title: The role of statistics in data science
+_db_id: 1078
 content_type: topic
-ready: True
+ready: true
+title: The role of statistics in data science
 ---
-
 
 Statistics is a foundational discipline that plays a pivotal role in the field of data science. At its core, data science is about extracting meaningful insights and knowledge from vast amounts of data, and statistics provides the tools and methods necessary to make sense of this information. Here's an overview of the key roles that statistics plays in data science:
 
@@ -26,4 +26,3 @@ Take a look at these resources to get a picture of why statistics matter:
 - [How Much Do Data Scientists Need to Know About Statistics?
 ](https://datascience.virginia.edu/news/how-much-do-data-scientists-need-know-about-statistics)
 - [How much statistics do I really need to know for data science](https://www.reddit.com/r/datascience/comments/dyptgb/how_much_statistics_do_i_really_need_to_know_for/)
- 

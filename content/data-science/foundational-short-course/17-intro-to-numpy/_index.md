@@ -1,7 +1,8 @@
 ---
-title: Introduction to Numpy
+_db_id: 1075
 content_type: topic
 ready: true
+title: Introduction to Numpy
 ---
 
 Numpy is a widely used Python library among data scientists.

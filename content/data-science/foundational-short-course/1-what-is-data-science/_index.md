@@ -1,7 +1,8 @@
 ---
+_db_id: 1081
 content_type: topic
-title: "What is data science?"
-ready: True
+ready: true
+title: What is data science?
 ---
 
 Data Science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data. At its core, data science is applied statistics, but it expands beyond traditional analysis by incorporating advances in computing. It blends statistical theory, methods, and practice with computational techniques to solve complex problems, make predictions, and inform decision-making.

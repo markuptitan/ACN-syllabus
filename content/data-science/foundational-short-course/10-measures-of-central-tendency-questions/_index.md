@@ -1,11 +1,12 @@
 ---
-title: "Statistics - conceptual questions"
+_db_id: 1084
 content_type: project
+flavours:
+- none
 protect_main_branch: false
 ready: true
 submission_type: repo
-flavours:
-- none
+title: Statistics - conceptual questions
 ---
 
 ## How to submit your work
@@ -44,4 +45,3 @@ Please follow the following instructions to submit your work:
 
 
 10. How does the size of a dataset impact the reliability of the mean, median, and mode? Discuss scenarios where increasing the size of the dataset could significantly change one of these measures.
-

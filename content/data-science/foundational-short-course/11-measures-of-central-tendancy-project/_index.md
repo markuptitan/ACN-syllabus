@@ -1,17 +1,16 @@
 ---
+_db_id: 1090
 content_type: project
 flavours:
 - python
 prerequisites:
-  hard:
-  - data_science/3_introduction_to_statistics/measures_of_central_tendency_questions
+  hard: []
   soft: []
 protect_main_branch: true
 ready: true
 submission_type: repo
 title: Measures of Central Tendency - Project
 ---
-
 
 We will not only be assessing your code but also how you structure and present your analysis.This [notebook](notebook.ipynb) has a guide to the general structure we expect.
 
@@ -42,6 +41,3 @@ scores = [80, 60, 78, 79, 48, 95, 90, 87, 100, 89]
 - Organise your code into well-commented Jupyter notebook cells 
 - Include Markdown cells for explanations, analysis, and reflections.
 - After completing this project, Push your changes to another branch other than main and open a pull request on github.
-
-
-

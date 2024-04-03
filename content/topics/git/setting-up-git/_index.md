@@ -1,7 +1,8 @@
 ---
+_db_id: 1092
 content_type: topic
-title: "Introduction to Git and GitHub Part: 1"
-ready: True
+ready: true
+title: 'Introduction to Git and GitHub Part: 1'
 ---
 
 ## Introduction to Git and GitHub

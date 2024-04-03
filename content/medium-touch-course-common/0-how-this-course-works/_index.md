@@ -1,6 +1,7 @@
 ---
-title: How this course works
+_db_id: 1091
 content_type: topic
+title: How this course works
 ---
 
 This course has a number of components. Many things are optional, and some are required.

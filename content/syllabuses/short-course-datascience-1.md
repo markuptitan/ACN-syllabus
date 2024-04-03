@@ -21,7 +21,7 @@ Learners doing this course should first do the "Intro to Tilde for non-coder boo
 - {{< contentlink path="topics/git/git-introduction" >}}
 - {{< contentlink path="coding_aptitude_assessment/introduction_to_github" >}}
 - {{< contentlink path="projects/tilde/basic-repo-card-tutorial" flavour="" >}}
-- {{< contentlink path="data-science/foundational-short-course/4-what-is-data-science-questions" >}}
+- {{< contentlink path="data-science/foundational-short-course/4-what-is-data-science-questions" flavours="" >}}
 - {{< contentlink path="topics/data-science-specific/intro-to-python-data-camp" >}}
 
 ### Group sessions 
@@ -34,7 +34,7 @@ The first group session should be an ice-breaker. The learners should be introdu
 
 Conceptual session: This should be based on previous conceptual questions covered in:
 
-- {{< contentlink path="data-science/foundational-short-course/4-what-is-data-science-questions" >}}
+- {{< contentlink path="data-science/foundational-short-course/4-what-is-data-science-questions" flavours="" >}}
 
 If the learners are struggling with finishing the questions on time then this can be a hot-seat session focused on helping the learners overcome any technical difficulties people are struggling with.
 
@@ -83,16 +83,15 @@ Hotseat
 - {{< contentlink path="data-science/foundational-short-course/8-measures-of-central-tendency" >}}
 - {{< contentlink path="data-science/foundational-short-course/9-measures-of-central-tendency-in-python" >}}
 - {{< contentlink path="data-science/foundational-short-course/10-measures-of-central-tendency-questions" >}}
-- {{< contentlink path="data-science/foundational-short-course/11-measures-of-central-tendancy-project" >}}
+- {{< contentlink path="data-science/foundational-short-course/11-measures-of-central-tendancy-project" flavours="python" >}}
 - {{< contentlink path="data-science/foundational-short-course/12-measures-of-dispersion" >}}
-- {{< contentlink path="data-science/foundational-short-course/13-measures-of-dispersion-questions" >}}
-- {{< contentlink path="data-science/foundational-short-course/14-measures-of-dispersion-project" >}}
+- {{< contentlink path="data-science/foundational-short-course/13-measures-of-dispersion-questions" flavours="" >}}
+- {{< contentlink path="data-science/foundational-short-course/14-measures-of-dispersion-project" flavours="python" >}}
 - {{< contentlink path="data-science/foundational-short-course/15-frequency-distribution" >}}
-- {{< contentlink path="data-science/foundational-short-course/16-frequency-distribution-questions" >}}
+- {{< contentlink path="data-science/foundational-short-course/16-frequency-distribution-questions" flavours="" >}}
 - {{< contentlink path="data-science/foundational-short-course/17-intro-to-numpy" >}}
 - {{< contentlink path="data-science/foundational-short-course/18-positional-measures" >}}
-- {{< contentlink path="data-science/foundational-short-course/19-positional-measures-questions" >}}
-- {{< contentlink path="data-science/foundational-short-course/1-what-is-data-science" >}}
+- {{< contentlink path="data-science/foundational-short-course/19-positional-measures-questions" flavours="" >}}
 - {{< contentlink path="data-science/foundational-short-course/20-skewness-and-kurtosis" >}}
 - {{< contentlink path="data-science/foundational-short-course/21-skewness-and-kurtosis-questions" >}}
 - {{< contentlink path="data-science/foundational-short-course/22-probability" >}}

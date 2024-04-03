@@ -1,7 +1,8 @@
 ---
-title: "Different types of data"
+_db_id: 1071
 content_type: topic
-ready: True
+ready: true
+title: Different types of data
 ---
 
 The term "data type" is commonly used across data science and software development disciplines. 
@@ -95,5 +96,3 @@ For each of the examples below, is the data nominal, ordinal, discrete or contin
 - the difficulty of a problem (easy, medium, hard)
 
 Try to think of more examples in your own life and test your understanding.
-
-

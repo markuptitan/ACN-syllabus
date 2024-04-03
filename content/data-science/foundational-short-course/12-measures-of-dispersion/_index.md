@@ -1,7 +1,8 @@
 ---
-title: Measures of Dispersion
+_db_id: 1089
 content_type: topic
 ready: true
+title: Measures of Dispersion
 ---
 
 Please read through the following article:
@@ -43,8 +44,3 @@ print(f"Standard Deviation of Scores: {std_dev_score}")
 
 For this code to function, you must import the statistics package. 
 Can you recall how to do this?
-
-
-
-
-

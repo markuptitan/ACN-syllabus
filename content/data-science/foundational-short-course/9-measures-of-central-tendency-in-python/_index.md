@@ -1,7 +1,8 @@
 ---
-title: Descriptive statistics in Python
-content_type: topic 
+_db_id: 1077
+content_type: topic
 ready: true
+title: Descriptive statistics in Python
 ---
 
 Python comes equipped with built-in capabilities that are useful for calculating various measures of central tendency.
@@ -42,5 +43,3 @@ Experiment with this a bit:
 - If you alter the numbers in `data` then does `mean_value` change? Or do you need to take additional steps to recalculate it?
 - Can you determine if your dataset is skewed or not? What clues indicate skewness?
 - Does your data have a mode? Try to create a dataset that has a mode and another that doesn't. How do you identify if a mode exists?
-
-

@@ -1,9 +1,9 @@
 ---
-title: Measures of Central Tendency
+_db_id: 1069
 content_type: topic
 ready: true
+title: Measures of Central Tendency
 ---
-
 
 Central tendency is a key concept in statistics that helps identify the centre of a dataset, essentially the point around which all other data points gather. 
 
@@ -74,4 +74,3 @@ To truly comprehend these concepts, it's vital to approach them from multiple an
 
 [Mean, Median, and Mode: Measures of Central Tendency
 By Jim Frost ](https://statisticsbyjim.com/basics/measures-central-tendency-mean-median-mode/)
-

@@ -1,7 +1,8 @@
 ---
-title: Frequency distribution 
+_db_id: 1070
 content_type: topic
 ready: true
+title: Frequency distribution
 ---
 
 A frequency distribution is a summary of data that shows the number of observations (frequency) in each category or interval. It functions as a method to systematically arrange and present unprocessed data in a meaningful way, facilitating analysis and the derivation of conclusions. Widely applied in statistics, frequency distributions provide a descriptive overview of the spread of values within a dataset. 
@@ -45,4 +46,4 @@ To create a frequency distribution, you would organize the data and count the oc
 
 ## Check your understanding 
 
-Looking at the table above, can you understand what each of the columns means? 
+Looking at the table above, can you understand what each of the columns means?

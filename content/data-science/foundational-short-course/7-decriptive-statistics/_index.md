@@ -1,7 +1,8 @@
 ---
-title: Descriptive Statistics 
+_db_id: 1083
 content_type: topic
 ready: true
+title: Descriptive Statistics
 ---
 
 Descriptive statistics is a part of statistics focused on collecting, analysing, interpreting, and presenting data to summarise its key features. 

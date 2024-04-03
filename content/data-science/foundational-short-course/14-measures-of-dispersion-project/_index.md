@@ -1,16 +1,16 @@
 ---
-title: Measures of Dispersion - Project
+_db_id: 1068
 content_type: project
 flavours:
 - python
 prerequisites:
-  hard:
+  hard: null
   soft: []
 protect_main_branch: false
 ready: true
 submission_type: repo
+title: Measures of Dispersion - Project
 ---
-
 
 We will not only be assessing your code but also how you structure and present your analysis.This [notebook](notebook.ipynb) has a guide to the general structure we expect.
 
@@ -41,6 +41,3 @@ Compute and present the Range, Variance, and Standard Deviation of the provided 
 - Organise your code into well commented Jupyter notebook cells 
 - Include Markdown cells for explanations, analysis, and reflections.
 - After completing this project, Push your changes to another branch other than main and open a pull request on github.
-
-
-
