@@ -13,7 +13,7 @@ title: FreeCodeCamp - Basic Javascript
 
 Make an account here if you haven't already: https://www.freecodecamp.org/learn
 
-Under "JavaScript Algorithms and Data Structures", do the section "Basic JavaScript".
+At the bottom of the page under the "Explore our Legacy Curriculum:" select "Legacy JavaScript Algorithms and Data Structures", complete the section "Basic JavaScript".
 
 Try not to ask for too many hints. Do your best to understand everything.
 
