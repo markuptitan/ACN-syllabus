@@ -61,6 +61,8 @@ Your directory structure should look like this:
     └── test_validate_sa_id.py
 ```
 
+Please use `pytest` to test your work.
+
 ### Java
 
 Please make use of Gradle from the command line to set up your project directory. You can learn more about Gradle here:
