@@ -9,4 +9,4 @@ Despite the recent increase in computing power and access to data over the last 
 
 This course has one purpose, and that is to share a methodology that can be used within data science, to ensure that the data used in problem solving is relevant and properly manipulated to address the question at hand. 
 
-[The course content can be found here](https://courses.cognitiveclass.ai/courses/course-v1:CognitiveClass+DS0103EN+v3/info)
+[The course content can be found here](https://cognitiveclass.ai/courses/data-science-methodology-2)
