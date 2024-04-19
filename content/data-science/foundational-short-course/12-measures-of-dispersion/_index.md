@@ -24,7 +24,7 @@ Can you answer the following questions?
 
 ## Python
 
-Open up a python shell or notebook and play with these ideas a bit.
+Open up a python shell or [notebook](notebook.ipynb) and play with these ideas a bit.
 
 Try this out:
 
