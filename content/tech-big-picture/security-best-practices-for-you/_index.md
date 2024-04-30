@@ -8,7 +8,7 @@ ready: true
 title: Security best practices for you
 ---
 
-![best security practices](security.png)
+![best security practices](security.jpg)
 
 Here are some security best practices that individuals should follow:
 
@@ -27,5 +27,5 @@ These practices are important because they significantly reduce the risk of a se
 
 ## Resources 
 
-- (How to protect your digital privacy)[https://www.nytimes.com/guides/privacy-project/how-to-protect-your-digital-privacy]
-- (How to protect your privacy from hackers, spies, and the government)[https://www.zdnet.com/article/online-security-101-how-to-protect-your-privacy-from-hackers-spies-and-the-government/]
+- [How to protect your digital privacy](https://www.nytimes.com/guides/privacy-project/how-to-protect-your-digital-privacy)
+- [How to protect your privacy from hackers, spies, and the government](https://www.zdnet.com/article/online-security-101-how-to-protect-your-privacy-from-hackers-spies-and-the-government/)
