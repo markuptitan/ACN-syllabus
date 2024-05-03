@@ -5,7 +5,11 @@ ready: true
 title: Google forms like a boss
 ---
 
-Please review this [presentation](https://drive.google.com/file/d/1CzfFBSa0PbDwPSFaHfBq0Ouz2MjmG8WN/view)
+Please review this presentation
+
+<iframe src="https://drive.google.com/file/d/1CzfFBSa0PbDwPSFaHfBq0Ouz2MjmG8WN/preview" width="100%" height="600px"></iframe>
+
+If the presentation does not load click here: [Presentation](https://drive.google.com/file/d/1CzfFBSa0PbDwPSFaHfBq0Ouz2MjmG8WN/view)
 
 Here are some further links on how to:
 

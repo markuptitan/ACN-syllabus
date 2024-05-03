@@ -13,4 +13,6 @@ Surveys are great tools for understanding your end-user. Or they can be a great 
 
 Take a look over these slides:
 
-[Slides](https://drive.google.com/file/d/1xOjz7QKWrvRRL3_wV-Yd7imaAIExqLzm/view?usp=sharing)
+<iframe src="https://drive.google.com/file/d/1xOjz7QKWrvRRL3_wV-Yd7imaAIExqLzm/preview" width="100%" height="600px"></iframe>
+
+If the slides are not displaying open this: [Slides](https://drive.google.com/file/d/1xOjz7QKWrvRRL3_wV-Yd7imaAIExqLzm/view?usp=sharing)
