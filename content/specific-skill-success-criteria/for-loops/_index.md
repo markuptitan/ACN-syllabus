@@ -17,7 +17,7 @@ Many people do pattern matching instead of understanding. Here are some common t
 
 On Tilde you'll notice that this card is asking for a link submission. **Please don't worry about submitting a link**. You will be assessed according to {{< contentlink path="specific-skill-success-criteria/introduction-to-assessments" >}}
 
-### JS and Java learners understand that they can count up and down.
+## JS and Java learners understand that they can count up and down.
 
 ```
 for (some_initialiser,some_check,some_update){

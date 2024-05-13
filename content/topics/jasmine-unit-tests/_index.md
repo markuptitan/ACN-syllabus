@@ -13,7 +13,7 @@ Jasmine is a unit testing framework we like a lot. Technically it's a Behavior D
 
 ## Getting started
 
-### Getting set up (Simple Method)
+### Getting set up (beginner)
 
 There are a few different ways to get started with Jasmine. Let's go with the technically simplest one first:
 
@@ -23,7 +23,7 @@ Edit `index.html` so that it refers to your code.
 
 To run the tests just open `index.html` in your browser.
 
-### Getting set up (Complex Method)
+### Getting set up (advanced)
 
 Open up a terminal. Now execute each of the following commands:
 
