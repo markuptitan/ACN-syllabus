@@ -14,4 +14,4 @@ title: Solo Learn - SQL - Module 2 - Filtering, Functions, Subqueries
 
 Complete the above mentioned module on Solo Learn
 
-https://www.sololearn.com/learning/1060
+https://www.sololearn.com/en/learn/courses/sql-introduction
