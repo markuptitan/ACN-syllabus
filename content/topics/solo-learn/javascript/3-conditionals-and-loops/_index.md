@@ -17,6 +17,6 @@ title: Solo Learn - JavaScript - Module 3 - Conditionals and Loops
 
 Complete the above mentioned module on Solo Learn
 
-https://www.sololearn.com/Course/JavaScript/
+https://www.sololearn.com/en/learn/courses/javascript-introduction
 
 Please submit the link to your profile e.g https://www.sololearn.com/profile/21320495

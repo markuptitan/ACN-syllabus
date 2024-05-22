@@ -14,4 +14,4 @@ title: Solo Learn - JavaScript - Module 8 - ECMAScript 6
 
 Complete the above mentioned module on Solo Learn
 
-https://www.sololearn.com/Course/JavaScript/
+https://www.sololearn.com/en/learn/courses/javascript-intermediate

@@ -17,6 +17,6 @@ title: Solo Learn - JavaScript - Module 6 - Core Objects
 
 Complete the above mentioned module on Solo Learn
 
-https://www.sololearn.com/Course/JavaScript/
+https://www.sololearn.com/en/learn/courses/javascript-intermediate
 
 Please submit the link to your profile e.g https://www.sololearn.com/profile/21320495

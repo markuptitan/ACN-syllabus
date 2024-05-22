@@ -14,4 +14,4 @@ title: Solo Learn - JavaScript - Module 2 - Basic Concepts
 
 Complete the above mentioned module on Solo Learn
 
-https://www.sololearn.com/Course/JavaScript/
+https://www.sololearn.com/en/learn/courses/javascript-introduction
