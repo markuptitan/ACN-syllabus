@@ -5,7 +5,7 @@ ready: true
 tags:
 - javascript
 - solo-learn
-title:Solo Learn - Intro to JavaScript - 1 Welcome to JavaScript
+title: Solo Learn - Intro to JavaScript - 1 Welcome to JavaScript
 ---
 
 Complete the above-mentioned module on Solo Learn.
