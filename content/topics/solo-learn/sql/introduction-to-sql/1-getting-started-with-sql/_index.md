@@ -5,7 +5,7 @@ ready: true
 tags:
 - sql
 - solo-learn
-title:Solo Learn - Introduction to SQL - 1 Getting Started with SQL
+title: Solo Learn - Introduction to SQL - 1 Getting Started with SQL
 ---
 
 Complete the above-mentioned module on Solo Learn.
