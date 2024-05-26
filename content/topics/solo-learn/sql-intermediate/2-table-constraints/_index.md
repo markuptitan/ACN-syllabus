@@ -1,11 +1,10 @@
 ---
-_db_id:
 content_type: topic
 flavours:
 - none
 prerequisites:
   hard:
-  - topics/solo-learn/sql/sql-intermediate/1-data-manipulations
+  - topics/solo-learn/sql-intermediate/1-data-manipulations
   soft: []
 ready: true
 tags:

@@ -1,11 +1,10 @@
 ---
-_db_id: 
 content_type: topic
 flavours:
 - none
 prerequisites:
   hard:
-  - topics/solo-learn/sql/introduction-to-sql/3-query-techniques
+  - topics/solo-learn/introduction-to-sql/3-query-techniques
   soft: []
 ready: true
 tags:

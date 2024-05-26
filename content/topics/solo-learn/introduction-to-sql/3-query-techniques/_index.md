@@ -1,11 +1,10 @@
 ---
-_db_id: 
 content_type: topic
 flavours:
 - none
 prerequisites:
   hard:
-  - topics/solo-learn/sql/introduction-to-sql/2-going-deeper-with-sql
+  - topics/solo-learn/introduction-to-sql/2-going-deeper-with-sql
   soft: []
 ready: true
 tags:

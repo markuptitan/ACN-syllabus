@@ -1,9 +1,8 @@
 ---
-_db_id: 
 content_type: topic
 prerequisites:
   hard:
-  - topics/solo-learn/sql/sql-intermediate/2-table-constraints
+  - topics/solo-learn/sql-intermediate/2-table-constraints
   soft: []
 ready: true
 tags:
