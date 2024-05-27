@@ -1,5 +1,9 @@
 ---
 content_type: topic
+prerequisites:
+  hard:
+  - topics/solo-learn/introduction-to-sql/4-data-analysis/_index.md
+  soft: []
 ready: true
 tags:
 - sql

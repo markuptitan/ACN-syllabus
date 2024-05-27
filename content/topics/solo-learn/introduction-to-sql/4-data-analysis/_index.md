@@ -1,5 +1,5 @@
 ---
-content_type: topic
+content_type: project
 flavours:
 - none
 prerequisites:
@@ -7,6 +7,7 @@ prerequisites:
   - topics/solo-learn/introduction-to-sql/3-query-techniques
   soft: []
 ready: true
+submission_type: link
 tags:
 - sql
 - solo-learn

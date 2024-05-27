@@ -1,10 +1,11 @@
 ---
-content_type: topic
+content_type: project
 prerequisites:
   hard:
   - topics/solo-learn/sql-intermediate/2-table-constraints
   soft: []
 ready: true
+submission_type: link
 tags:
 - sql
 - solo-learn
