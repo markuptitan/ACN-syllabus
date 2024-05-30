@@ -9,7 +9,7 @@ tags:
 - sql
 - solo-learn
 - skill/databases
-title: Solo Learn - SQL - Module 2 - Filtering, Functions, Subqueries - Depreciated
+title: Solo Learn - SQL - Module 2 - Filtering, Functions, Subqueries - Deprecated
 ---
 
 Complete the above mentioned module on Solo Learn

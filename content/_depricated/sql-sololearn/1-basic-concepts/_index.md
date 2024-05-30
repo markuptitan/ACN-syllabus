@@ -9,7 +9,7 @@ tags:
 - sql
 - solo-learn
 - skill/databases
-title: Solo Learn - SQL - Module 1 - Basic Concepts -Depreciated
+title: Solo Learn - SQL - Module 1 - Basic Concepts -Deprecated
 ---
 
 Complete the above mentioned module on Solo Learn

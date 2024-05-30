@@ -9,7 +9,7 @@ tags:
 - sql
 - solo-learn
 - skill/databases
-title: Solo Learn - SQL - Module 3 - JOIN, Table Operations - Depreciated
+title: Solo Learn - SQL - Module 3 - JOIN, Table Operations - Deprecated
 ---
 
 Complete the above mentioned module on Solo Learn

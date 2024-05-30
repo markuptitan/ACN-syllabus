@@ -1,15 +1,15 @@
 ---
-_db_id: 459
+_db_id: 460
 content_type: topic
 prerequisites:
   hard:
-  - _depreciated/javascript-sololearn/6-core-objects
+  - topics/solo-learn/javascript/3-conditionals-and-loops
   soft: []
 ready: true
 tags:
 - javascript
 - solo-learn
-title: Solo Learn - JavaScript - Module 7 - DOM & Events - Depreciated
+title: Solo Learn - JavaScript - Module 4 - Functions
 ---
 
 Complete the above mentioned module on Solo Learn

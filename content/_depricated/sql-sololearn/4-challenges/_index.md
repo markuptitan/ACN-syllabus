@@ -12,7 +12,7 @@ tags:
 - sql
 - solo-learn
 - skill/databases
-title: Solo Learn - SQL - Module 4 - Challenges - Depreciated
+title: Solo Learn - SQL - Module 4 - Challenges - Deprecated
 ---
 
 Complete the above mentioned module on Solo Learn
