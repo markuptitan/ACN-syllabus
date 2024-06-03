@@ -11,7 +11,7 @@ submission_type: link
 tags:
 - sql
 - solo-learn
-title: Solo Learn - SQL Intermediate - 4 Working with Data
+title: Solo Learn - SQL Intermediate - 3 Working with Data
 ---
 
 Complete the above-mentioned module on Solo Learn.
