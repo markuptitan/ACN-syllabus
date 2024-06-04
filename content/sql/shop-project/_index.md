@@ -12,7 +12,7 @@ learning_outcomes:
 - sql_query_data_with_group_by
 prerequisites:
   hard:
-  - topics/solo-learn/sql/4-challenges
+  - topics/solo-learn/sql-intermediate/3-working-with-data
   - docker/intro-to-docker/
   - topics/clean-code/sql
   soft: []
