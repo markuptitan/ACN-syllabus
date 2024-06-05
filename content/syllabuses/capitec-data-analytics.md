@@ -1,0 +1,44 @@
+---
+title: Capitec Data analytics
+---
+
+- {{< contentlink path="agile/agile-scrum" >}}
+- {{< contentlink path="topics/clean-code/python" >}}
+- {{< contentlink path="file-and-directory-naming/python" >}}
+- {{< contentlink path="topics/code-reviews/part-1-reviewers" >}}
+- {{< contentlink path="topics/how-to-ask-for-help-with-your-code" >}}
+- {{< contentlink path="topics/code-reviews/part-2-author" >}}
+- {{< contentlink path="topics/solo-learn/python/python-intermediate/1-collection-types" >}}
+- {{< contentlink path="topics/solo-learn/python/python-intermediate/1-collection-types-project" >}}
+- {{< contentlink path="projects/katas/level-2" flavour="python" >}}
+- {{< contentlink path="specific-skill-success-criteria/introduction-to-assessments" >}}
+- {{< contentlink path="specific-skill-success-criteria/functions-and-return" >}}
+- {{< contentlink path="specific-skill-success-criteria/for-loops" >}}
+- {{< contentlink path="language-agnostic/intro-to-hackerrank" >}}
+- {{< contentlink path="workshops/general-coding-best-practices" >}}
+- {{< contentlink path="topics/python-specific/oop-for-python" >}}
+- {{< contentlink path="topics/python-specific/automated-testing-with-pytest" >}}
+- {{< contentlink path="topics/python-specific/virtual-envs" >}}
+- {{< contentlink path="topics/khan-academy/statistics-and-probability/unit-1-introduction-to-statistics" >}}
+- {{< contentlink path="topics/khan-academy/statistics-and-probability/unit-2-intermediate-statistics" >}}
+- {{< contentlink path="specific-skill-success-criteria/basic-data-analysis/part-1" >}}
+- {{< contentlink path="specific-skill-success-criteria/basic-data-analysis/part-2" >}}
+- {{< contentlink path="projects/data-science-specific/data-wrangling" flavour="python" >}}
+- {{< contentlink path="projects/data-science-specific/statistical-thinking" flavour="python" >}}
+- {{< contentlink path="topics/khan-academy/statistics-and-probability/unit-3-advanced-statistics" >}}
+- {{< contentlink path="projects/data-science-specific/data-visualisation" flavour="python" >}}
+- {{< contentlink path="topics/survey-design" >}}
+- {{< contentlink path="topics/google-forms-like-a-boss" >}}
+- {{< contentlink path="projects/data-science-specific/cross-validation-and-simple-linear-regression" flavour="python" >}}
+- {{< contentlink path="topics/intro-to-data-ethics" >}}
+- {{< contentlink path="topics/data-ethics-and-privacy" >}}
+- {{< contentlink path="projects/tdd/string-calculator-part-1" flavour="python" >}}
+- {{< contentlink path="projects/data-science-specific/multivariate-linear-regression" flavour="python" >}}
+- {{< contentlink path="projects/oop/animals/part1" flavour="python" >}}
+- {{< contentlink path="specific-skill-success-criteria/classes-and-objects" flavour="python" >}}
+- {{< contentlink path="projects/oop/bank-accounts/part-1" flavour="python" >}}
+- {{< contentlink path="topics/solo-learn/python/python-intermediate/5-working-with-files" >}}
+- {{< contentlink path="topics/solo-learn/python/python-intermediate/5-working-with-files-project" >}}
+- {{< contentlink path="projects/github-api-consume/part1" flavour="python" >}}
+- {{< contentlink path="projects/data-science-specific/dashboards/plotly_dashboards" flavour="python" >}}
+- {{< contentlink path="sql/shop-project" flavour="" >}}
