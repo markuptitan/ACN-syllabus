@@ -94,6 +94,17 @@ def check_one_file_frontmatter(file_path):
         "ncit_standards",
         "ncit_specific_outcomes",
         "learning_outcomes",
+        "protect_main_branch",
+        "blurb",
+        "link_example",
+        "link_message",
+        "link_name",
+        "link_regex",
+        "link_message",
+        "link_name",
+        "link_regex",
+        "project_needs_review",
+        "from_repo",
     ]
 
     if "_db_id" in front:
