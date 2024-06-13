@@ -57,7 +57,7 @@ for (let i = 0; i< arr.length; i++){
 }
 ```
 
-## All learners should be able to reason about nested for loops.
+## All learners should be able to reason about nested for loops
 
 ```
 for n in [0,1,2]:
