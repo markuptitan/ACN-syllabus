@@ -1,15 +1,15 @@
 ---
-_db_id: 696
+_db_id: 699
 content_type: topic
 prerequisites:
   hard:
-  - topics/solo-learn/sql/1-basic-concepts
+  - _depricated/sql-sololearn/2-filtering-functions-subqueries
 ready: true
 tags:
 - sql
 - solo-learn
 - skill/databases
-title: Solo Learn - SQL - Module 2 - Filtering, Functions, Subqueries
+title: Solo Learn - SQL - Module 3 - JOIN, Table Operations - Deprecated
 ---
 
 Complete the above mentioned module on Solo Learn

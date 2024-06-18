@@ -24,7 +24,8 @@ Many small PRs are better than one big one. You are more likely to be successful
 
 If your SQL is a lil rusty we got you. Or rather, these guys got you:
 
-- https://www.sololearn.com/learning/1060
+- https://www.sololearn.com/en/learn/courses/sql-introduction
+- https://www.sololearn.com/en/learn/courses/sql-intermediate
 - https://www.w3schools.com/sql/
 
 You're going to need to know how to make tables, how foreign keys work, and some select statements and joins.
