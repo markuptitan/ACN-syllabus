@@ -13,7 +13,7 @@ Jasmine is a unit testing framework we like a lot. Technically it's a Behavior D
 
 ## Getting started
 
-### Getting set up (the noob method)
+### Getting set up (beginner)
 
 There are a few different ways to get started with Jasmine. Let's go with the technically simplest one first:
 
@@ -23,7 +23,7 @@ Edit `index.html` so that it refers to your code.
 
 To run the tests just open `index.html` in your browser.
 
-### Getting set up (like a boss)
+### Getting set up (advanced)
 
 Open up a terminal. Now execute each of the following commands:
 
@@ -90,7 +90,7 @@ Spies (often referred to as mocks in other languages and tools) are used to allo
 
 Of course, this is just the tip of the iceberg. But it gives a basic intro. Spies are detailed in the official tutorial.
 
-### Spy on the filesysytem
+### Spy on the filesystem
 
 Use this. The official docs are nice.
 
