@@ -9,7 +9,7 @@ prerequisites:
   hard:
   - national-qualifications-framework/ncit/content/building-an-online-business
   - projects/simple-website
-ready: false
+ready: true
 submission_type: link
 tags:
 - ncit
