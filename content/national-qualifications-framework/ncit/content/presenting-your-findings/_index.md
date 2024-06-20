@@ -32,7 +32,7 @@ ncit_standards:
 prerequisites:
   hard:
   - national-qualifications-framework/ncit/content/analytics-surveys-and-reports
-ready: false
+ready: true
 tags:
 - ncit
 - communication

@@ -31,7 +31,7 @@ ncit_standards:
 prerequisites:
   hard:
   - topics/clean-code
-ready: false
+ready: true
 tags:
 - ncit
 - documentation

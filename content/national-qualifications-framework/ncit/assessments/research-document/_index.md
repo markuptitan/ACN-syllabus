@@ -6,7 +6,7 @@ flavours:
 prerequisites:
   hard:
   - national-qualifications-framework/ncit/content/conducting-research-and-user-interviews
-ready: false
+ready: true
 submission_type: link
 tags:
 - ncit
@@ -16,7 +16,7 @@ tags:
 title: 'NCIT assessment: Research Document'
 ---
 
-Submit a copy of your research notes from your "design thinking sprint" (DTS) or your "make us better" (MUB) sprint using [THIS TEMPLATE](https://docs.google.com/document/d/1wjVSI57YvG1cjKCUd9JBuw7RBSG2NYtP/edit?usp=share_link&ouid=106698657596806218419&rtpof=true&sd=true) in which you document your research findings in an organised way. 
+Submit a copy of your research notes from your "design thinking sprint" (DTS) or your "make us better" (MUB) sprint using [THIS TEMPLATE](https://docs.google.com/document/d/1wjVSI57YvG1cjKCUd9JBuw7RBSG2NYtP/edit?usp=share_link&ouid=106698657596806218419&rtpof=true&sd=true) in which you document your research findings in an organised way.
 
 Ensure this document meets the standards and criteria in {{< contentlink path="national-qualifications-framework/ncit/content/conducting-research-and-user-interviews" >}}
   
