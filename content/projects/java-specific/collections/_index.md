@@ -5,7 +5,7 @@ flavours:
 - java
 prerequisites:
   hard:
-  - projects/oop/animals
+  - projects/oop/animals/part1
   - topics/java-specific/collections-and-datastructures
   soft:
   - docker/intro-to-docker
