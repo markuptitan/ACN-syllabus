@@ -1,6 +1,7 @@
 ---
 _db_id: 841
 content_type: topic
+ready: true
 title: Putting secrets in the code
 ---
 

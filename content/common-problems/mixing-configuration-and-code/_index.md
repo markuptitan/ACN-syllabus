@@ -1,6 +1,7 @@
 ---
 _db_id: 836
 content_type: topic
+ready: true
 title: Mixing code and configuration
 ---
 

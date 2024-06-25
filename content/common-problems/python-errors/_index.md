@@ -1,6 +1,7 @@
 ---
 _db_id: 838
 content_type: topic
+ready: true
 title: Python Errors
 ---
 

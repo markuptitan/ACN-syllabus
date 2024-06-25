@@ -1,6 +1,7 @@
 ---
 _db_id: 837
 content_type: topic
+ready: true
 title: Use an autoformatter
 ---
 
