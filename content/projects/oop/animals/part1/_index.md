@@ -93,7 +93,7 @@ In this challenge, you will create 3 classes.
 2. `Dog` and `Cat` class both **extend** `Animal` class (a dog is an animal, and a cat is an animal).
 3. `Dog` and `Cat` class should only have one function, which is their own implementation of the `sound()` function. This is polymorphism.
 
-![Animal Flow Diagram](animals-diagram.png)
+![Animal Flow Diagram](animals-diagram-updated.png)
 
 ```
 // Java
