@@ -31,6 +31,17 @@ title: Shop Database using sql
 - Instead of installing Postgres on your computer, you can launch it with a Docker composition.
 - MySQL is nice and lots of people use it in the industry, but it doesn't implement standard SQL; it sort of does its own thing a bit. Postgres is a much more standard DB, and the industry loves it.
 
+**NB! Many learners configure the docker-compose.yaml file to make use of the Adminer image but still instruct reviewers to download and install Postgres on their local machines in the documentation. This indicates a misunderstanding of the relationship between these technologies.**
+
+  To Clarify:
+  - Docker allows you to run applications in isolated containers.
+  - Docker Compose is a tool for defining and running multi-container Docker applications.
+  - Using Docker and Docker Compose, you can set up your entire environment, including Postgres and Adminer, without requiring any local installations on the reviewer’s machine.
+  
+  Ensure the documentation reflects this setup correctly, so reviewers do not need to install Postgres locally. Refer to the following resources for more information:
+  - {{< contentlink path="docker/intro-to-docker/" >}}
+  - [How to Set Up Postgres and Adminer with Docker Compose](https://codepruner.com/how-to-run-postgresql-and-adminer-or-pgadmin-with-docker-compose/)  
+
 ## Structure
 
 - Your repository should have a **.yml** file.
@@ -169,13 +180,4 @@ Save all of your instructions in script files - you will submit these files on G
   - The `src` directory should contain 4 SQL script files: one to create the database, one to create tables, one to populate tables, and one to query the database.
   - A new .md file needs to be present in the repository where the learner has documented what information is in each table, how the tables are related, and which keys link the records between tables. The README.md file should not be edited, as it serves its own purpose.
   
-  **NB! Many learners configure the docker-compose.yaml file to make use of the Adminer image but still instruct reviewers to download and install Postgres on their local machines in the documentation. This indicates a misunderstanding of the relationship between these technologies.**
-
-  To Clarify:
-  - Docker allows you to run applications in isolated containers.
-  - Docker Compose is a tool for defining and running multi-container Docker applications.
-  - Using Docker and Docker Compose, you can set up your entire environment, including Postgres and Adminer, without requiring any local installations on the reviewer’s machine.
-  
-  Ensure the documentation reflects this setup correctly, so reviewers do not need to install Postgres locally. Refer to the following resource for more information: [How to Set Up Postgres and Adminer with Docker Compose](https://codepruner.com/how-to-run-postgresql-and-adminer-or-pgadmin-with-docker-compose/)
-
 - Ensure the learner has adapted the naming conventions to match those specified in {{< contentlink path="topics/clean-code/sql" >}}
