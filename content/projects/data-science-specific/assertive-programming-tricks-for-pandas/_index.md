@@ -6,6 +6,7 @@ flavours:
 prerequisites:
   hard:
   - topics/intro-to-assertive-programming
+  - /topics/data-science-specific/datacamp/intro-to-python
 submission_type: repo
 title: Assertive programming helpers for Pandas
 ---
