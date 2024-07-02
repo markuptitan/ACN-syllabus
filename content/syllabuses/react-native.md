@@ -4,7 +4,6 @@ _db_id: 82
 ready: true
 ---
 
-
 - {{< contentlink path="react-native/introduction" >}}
 - {{< contentlink path="react-native/harvard-cs-50-m/01-overview" >}}
 - {{< contentlink path="react-native/getting-set-up" >}}
@@ -49,9 +48,7 @@ ready: true
 - contentlink path="react-native/stanford-cs47si/week-09-firebase-auth" >}} -->
 
 
----
----
-
+------
 
 # Placeholder content
 

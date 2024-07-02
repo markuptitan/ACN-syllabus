@@ -14,7 +14,6 @@ title: Bank accounts - part 2
 ready: true
 ---
 
-
 In the last part of this project you created a BankAccount, now it is time to create a Bank.
 
 ## Directory structure
@@ -69,17 +68,12 @@ Update your directory structure to:
 |       |   └── java
 |       |       └── banking
 |       |           ├── BankAccount.java
-|       |           └── Bank.java  <---
-NEW
+|       |           └── Bank.java  <---NEW
 |       └──test
 |          └── java
 |               └── banking
-|                   ├── ???.java    <---
----
--- names are important
-|                   └── ???.java    <---
----
--- names are important
+|                   ├── ???.java    <-------- names are important
+|                   └── ???.java    <-------- names are important
 ├── gradle
 │   └── wrapper
 │       ├── gradle-wrapper.jar
