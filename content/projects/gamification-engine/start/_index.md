@@ -9,7 +9,9 @@ tags:
 - tdd
 - oop
 title: Gamification engine
+ready: true
 ---
+
 
 In this project you'll be demonstrating your knowledge of unit testing and oop. In order for your code to be acceptable, you'll need to make sure you follow best practices. NAme your stuff properly, write clean code, write clear small functions. All that stuff.
 

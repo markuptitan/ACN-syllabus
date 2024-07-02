@@ -1,7 +1,9 @@
 ---
 _db_id: 59
 title: Data Engineering boot camp - quick wins
+ready: true
 ---
+
 
 - {{< contentlink path="topics/solo-learn/python/intro-to-python/1-getting-started-with-python" >}}
 - {{< contentlink path="topics/solo-learn/python/intro-to-python/1-getting-started-with-python-project" >}}

@@ -1,7 +1,9 @@
 ---
 _db_id: 64
 title: Data science bridging course
+ready: true
 ---
+
 
 ## Intro
 

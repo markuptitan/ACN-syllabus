@@ -8,7 +8,9 @@ tags:
 - html
 - css
 title: Resturaunt menu
+ready: true
 ---
+
 
 Hey web developer, let's see your HTML and CSS skills.
 

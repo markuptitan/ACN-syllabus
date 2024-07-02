@@ -1,7 +1,9 @@
 ---
 _db_id: 97
 title: Big picture of tech
+ready: true
 ---
+
 
 ## How the web works 
 

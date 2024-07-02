@@ -1,7 +1,9 @@
 ---
 _db_id: 94
 title: Design Thinking Sprint
+ready: true
 ---
+
 
 - {{< contentlink path="design-thinking/introduction-to-the-design-thinking-sprint" >}}
 - {{< contentlink path="design-thinking/empathise-questionnaire-and-persona" >}}

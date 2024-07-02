@@ -14,6 +14,8 @@ prerequisites:
   soft: []
 submission_type: continue_repo
 title: CloudBnb - Property owner dashboard user interface
+ready: true
 ---
+
 
 When a property owner logs in they should be able to navigate to a dashboard.

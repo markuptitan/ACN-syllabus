@@ -13,7 +13,9 @@ prerequisites:
   soft: []
 submission_type: continue_repo
 title: Visualise your data with plotly.js
+ready: true
 ---
+
 
 Plotly can be run in Python or in Js. What's the difference?
 

@@ -1,7 +1,9 @@
 ---
 _db_id: 53
 title: NCIT - JavaScript
+ready: true
 ---
+
 
 - {{< contentlink path="national-qualifications-framework/ncit/assessments/how-the-internet-works" >}}
 - {{< contentlink path="national-qualifications-framework/ncit/assessments/version-control" flavour="javascript" >}}

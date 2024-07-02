@@ -13,7 +13,9 @@ submission_type: repo
 tags:
 - bash
 title: Beginner Linux challenges
+ready: true
 ---
+
 
 ### Submission guidelines
 

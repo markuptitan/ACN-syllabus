@@ -4,7 +4,9 @@ blurb: Time to flex your skills! In this step you'll be writing a web page from 
   on your own device.
 content_type: topic
 title: Your first HTML page
+ready: true
 ---
+
 
 Here is a great tutorial all about HTML. Do all the sections up to the end of `HTML Paragraphs`.
 

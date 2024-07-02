@@ -1,7 +1,9 @@
 ---
 _db_id: 105
 title: Datascience short course 1
+ready: true
 ---
+
 
 This course is to be completed in 8 weeks at maximum 10 hours per week. 
 

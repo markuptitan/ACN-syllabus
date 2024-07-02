@@ -11,7 +11,9 @@ submission_type: repo
 tags:
 - skill/combined_concept_projects
 title: Bank accounts - part 1
+ready: true
 ---
+
 
 You have just been hired by a fin-tech startup. Your mission is to build a bank. It's going to be a cute little bank, real banks are waaaay more complicated.
 
@@ -70,12 +72,16 @@ Your directory structure should look like this:
 |       ├── main
 |       |   └── java
 |       |       └── banking
-|       |           └── BankAccount.java   <-------- names are important
+|       |           └── BankAccount.java   <---
+---
+-- names are important
 |       |
 |       └──test
 |          └── java
 |               └── banking
-|                   └── ???.java    <-------- names are important
+|                   └── ???.java    <---
+---
+-- names are important
 ├── gradle
 │   └── wrapper
 │       ├── gradle-wrapper.jar

@@ -1,7 +1,9 @@
 ---
 _db_id: 107
 title: Capitec Data analytics
+ready: true
 ---
+
 
 - {{< contentlink path="agile/agile-scrum" >}}
 - {{< contentlink path="topics/clean-code/python" >}}

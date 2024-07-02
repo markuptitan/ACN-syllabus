@@ -2,7 +2,9 @@
 _db_id: 715
 content_type: topic
 title: Intro to foundational coding course
+ready: true
 ---
+
 
 Congrats! You made it into the foundational coding course.
 

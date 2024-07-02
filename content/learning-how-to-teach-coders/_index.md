@@ -2,7 +2,9 @@
 _db_id: 653
 content_type: topic
 title: Learning how to teach coders
+ready: true
 ---
+
 
 In order to address and assess knowledge and skill gaps with our students, we schedule one on one sessions with the students.
 

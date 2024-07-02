@@ -2,7 +2,9 @@
 _db_id: 651
 content_type: topic
 title: Debugging some broken code
+ready: true
 ---
+
 
 The focus of this session can be _refactoring_ or _debugging_. The leader guides the follower, but the follower should be doing the actual coding.
 

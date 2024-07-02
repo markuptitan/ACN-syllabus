@@ -2,6 +2,8 @@
 _db_id: 181
 content_type: topic
 title: Kinds of web APIs
+ready: true
 ---
+
 
 REST versus SOAP and GraphQL

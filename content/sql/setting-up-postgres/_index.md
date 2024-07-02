@@ -5,7 +5,9 @@ tags:
 - sql
 - postgres
 title: Getting ready to write some SQL
+ready: true
 ---
+
 
 Before we can get into any project work it would be good to get a database up and running that you can play with. There are 2 options here:
 

@@ -1,7 +1,9 @@
 ---
 _db_id: 96
 title: Data Science - part 1
+ready: true
 ---
+
 
 
 - {{< contentlink path="agile/agile-scrum" >}}

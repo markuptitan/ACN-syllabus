@@ -2,7 +2,9 @@
 _db_id: 649
 content_type: topic
 title: Quizzes
+ready: true
 ---
+
 
 ## What The session should be about
 

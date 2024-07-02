@@ -1,7 +1,9 @@
 ---
 title: Django for Web devs
 _db_id: 31
+ready: true
 ---
+
 
 - {{< contentlink path="topics/python-vs-js" >}}
 - {{< contentlink path="topics/django/why-learn-django" >}}

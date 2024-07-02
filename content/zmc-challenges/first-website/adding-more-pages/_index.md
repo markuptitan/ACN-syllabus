@@ -12,7 +12,9 @@ link_name: Github page url
 link_regex: https://.*\.github\.io/(?!.*\.html/?$).*
 submission_type: link
 title: Adding more pages
+ready: true
 ---
+
 
 In this section, you are going to learn about making websites with multiple pages. First, you're going to need to learn about anchor tags, also known as links.
 

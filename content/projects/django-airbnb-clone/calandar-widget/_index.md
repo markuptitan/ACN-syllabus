@@ -12,6 +12,8 @@ prerequisites:
   soft: []
 submission_type: continue_repo
 title: CloudBnb - Calandar widget
+ready: true
 ---
+
 
 Add a calendar widget to the search result details page. This should show what dates the accommodation has been booked. This will help the user choose dates to book.

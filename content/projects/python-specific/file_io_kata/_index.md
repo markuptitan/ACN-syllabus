@@ -5,7 +5,9 @@ flavours:
 - python
 submission_type: repo
 title: Getting to know Python
+ready: true
 ---
+
 
 This little project aims to introduce you to some of the most important aspects of Python.
 

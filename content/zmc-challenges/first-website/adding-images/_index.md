@@ -12,7 +12,9 @@ link_name: Github page url
 link_regex: https://.*\.github\.io/(?!.*\.html/?$).*
 submission_type: link
 title: Adding images to your website
+ready: true
 ---
+
 
 In this step we'll learn about a special kind of HTML element. The `<img>` element.
 

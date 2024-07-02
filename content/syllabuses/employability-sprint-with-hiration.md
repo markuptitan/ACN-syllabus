@@ -1,7 +1,9 @@
 ---
 _db_id: 86
 title: Employability sprint with Hiration
+ready: true
 ---
+
 
 - {{< contentlink path="employability-sprint/introduction" >}}
 - {{< contentlink path="employability-sprint/know-where-you-are-going" >}}

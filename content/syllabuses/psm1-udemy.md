@@ -1,7 +1,9 @@
 ---
 title: Professional Scrum Master with Udemy
 _db_id: 79
+ready: true
 ---
+
 
 - {{< contentlink path="scrum/scrum-intro" >}}
 - {{< contentlink path="scrum/scrum-certification" >}}

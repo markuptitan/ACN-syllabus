@@ -13,7 +13,9 @@ tags:
 - tdd
 - oop
 title: Add Leaderoard functionality
+ready: true
 ---
+
 
 ### Leaderboards
 

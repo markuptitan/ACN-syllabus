@@ -1,7 +1,9 @@
 ---
 _db_id: 60
 title: Java boot camp - quick wins
+ready: true
 ---
+
 - {{< contentlink path="topics/solo-learn/java/1-getting-started-with-java" >}}
 - {{< contentlink path="topics/solo-learn/java/1-getting-started-with-java-project" >}}
 - {{< contentlink path="topics/solo-learn/java/2-control-flow" >}}

@@ -1,7 +1,9 @@
 ---
 _db_id: 36
 title: Web frontend foundations
+ready: true
 ---
+
 
 - {{< contentlink path="projects/beginning-bash" flavour="" >}}
 - {{< contentlink path="projects/git-exercises" >}}

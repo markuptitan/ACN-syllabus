@@ -7,7 +7,9 @@ content_type: topic
 tags:
 - internal/zmc-challenge
 title: Why learn web development?
+ready: true
 ---
+
 
 There are loads of different kinds of programmers, and each type needs to know a different set of tools, practices and languages. If you spend some time Googling "What programming language should I learn first" then you'll get lots of confusing and conflicting advice. 
 

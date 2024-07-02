@@ -1,7 +1,9 @@
 ---
 _db_id: 87
 title: Employability sprint
+ready: true
 ---
+
 
 - {{< contentlink path="employability-sprint/introduction" >}}
 - {{< contentlink path="employability-sprint/know-where-you-are-going" >}}

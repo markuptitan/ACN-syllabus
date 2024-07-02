@@ -1,7 +1,9 @@
 ---
 _db_id: 95
 title: NCBA
+ready: true
 ---
+
 
 - {{< contentlink path="national-qualifications-framework/ncba/assessments/ncba-fa1-code-of-ethics-and-professional-conduct" >}}
 - {{< contentlink path="national-qualifications-framework/ncba/assessments/ncba-sa1-code-of-ethics-and-professional-conduct" >}}

@@ -1,7 +1,9 @@
 ---
 _db_id: 51
 title: NCIT - Python
+ready: true
 ---
+
 - {{< contentlink path="topics/solo-learn/python/intro-to-python/6-functions-project" >}}
 - {{< contentlink path="national-qualifications-framework/ncit/assessments/how-the-internet-works" >}}
 - {{< contentlink path="topics/python-specific/automated-testing-with-pytest" >}}

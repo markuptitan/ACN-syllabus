@@ -10,6 +10,8 @@ prerequisites:
 submission_type: repo
 tags: []
 title: Python and Spark
+ready: true
 ---
+
 
 TODO

@@ -1,7 +1,9 @@
 ---
 _db_id: 103
 title: Java Systems Development - Capitec technical sessions - 2023 10
+ready: true
 ---
+
 
 - {{< contentlink path="specific-skill-success-criteria/introduction-to-assessments" >}}
 - {{< contentlink path="specific-skill-success-criteria/functions-and-return" flavour="java" >}}

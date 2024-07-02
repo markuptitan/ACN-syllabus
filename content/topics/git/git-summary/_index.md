@@ -2,7 +2,9 @@
 _db_id: 1094
 content_type: topic
 title: Git and GitHub
+ready: true
 ---
+
 
 ## Understanding the Basics of Using Git and GitHub
 

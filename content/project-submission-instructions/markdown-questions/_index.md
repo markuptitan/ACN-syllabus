@@ -2,7 +2,9 @@
 _db_id: 941
 content_type: topic
 title: How to submit your markdown files
+ready: true
 ---
+
 
 Create one file per question. Name your files like so:
 

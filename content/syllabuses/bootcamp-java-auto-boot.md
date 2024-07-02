@@ -1,7 +1,9 @@
 ---
 _db_id: 93
 title: Java boot camp (with automarked katas)
+ready: true
 ---
+
 
 - {{< contentlink path="projects/writing-assignment" flavour="" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_1" flavour="java" >}}

@@ -6,4 +6,5 @@ prerequisites:
   - topics/django/official-tutorial/part-4
   soft: []
 title: Understanding where the code runs and how the data flows
+ready: true
 ---

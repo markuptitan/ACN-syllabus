@@ -2,7 +2,9 @@
 _db_id: 666
 content_type: topic
 title: NCIT Assessments
+ready: true
 ---
+
 
 agile-meetings
 https://drive.google.com/file/d/1pgd1kxFYtI56wIsh4p6rMIA3BV6dk-BG/view?usp=sharing

@@ -1,7 +1,9 @@
 ---
 _db_id: 38
 title: Post Bootcamp Soft Skills
+ready: true
 ---
+
 
 - {{< contentlink path="soft-skills/learning-how-to-learn" >}}
 - {{< contentlink path="soft-skills/communication" >}}

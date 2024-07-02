@@ -5,4 +5,5 @@ flavours:
 - python
 submission_type: repo
 title: Distributed workloads with ZeroMQ
+ready: true
 ---

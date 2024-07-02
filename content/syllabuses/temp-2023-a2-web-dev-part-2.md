@@ -1,7 +1,9 @@
 ---
 _db_id: 101
 title: Web Development - part 2 - 2023 A2
+ready: true
 ---
+
 
 - {{< contentlink path="topics/basic-architecture-concepts" >}}
 - {{< contentlink path="projects/nodejs/file-io" flavour="javascript" >}}

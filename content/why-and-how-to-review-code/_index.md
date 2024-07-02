@@ -4,7 +4,9 @@ content_type: topic
 tags:
 - skill/developer_skills
 title: Why and how to review code
+ready: true
 ---
+
 
 It's worth knowing that code review is a fact of life in major software companies. For example, the engineers at Google think it's really important and Google does pretty well.
 

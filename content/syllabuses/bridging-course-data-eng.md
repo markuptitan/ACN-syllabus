@@ -1,7 +1,9 @@
 ---
 _db_id: 67
 title: Data eng bridging course
+ready: true
 ---
+
 
 ## Intro
 

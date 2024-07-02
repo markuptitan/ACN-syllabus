@@ -1,7 +1,9 @@
 ---
 title: Web Development - part 1
 _db_id: 3
+ready: true
 ---
+
 
 - {{< contentlink path="agile/agile-scrum" >}}
 - {{< contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/1-basic-javascript/" >}}

@@ -5,7 +5,9 @@ blurb: 'Every profession has it''s tools: carpenters use hammers, mechanics use 
   of the major tools of the trade.'
 content_type: topic
 title: How to get set up to author web code on your own device
+ready: true
 ---
+
 
 In this step you'll be learning about how to write HTML files on your own computer or cellphone. As nice as the W3Schools Try It Yourself editor is, it's not a professional web development tool and you'll need something more powerful if you want to make a proper website.
 

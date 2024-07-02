@@ -4,7 +4,9 @@ blurb: HTML is the first language a web developer needs to learn. It's time to g
   acquainted
 content_type: topic
 title: Basic HTML tutorial
+ready: true
 ---
+
 
 W3Schools does a great job of teaching the basics of HTML. Here is a tutorial to get you started:
 

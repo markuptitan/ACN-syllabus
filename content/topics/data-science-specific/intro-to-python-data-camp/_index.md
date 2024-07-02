@@ -2,7 +2,9 @@
 _db_id: 1095
 content_type: topic
 title: Introduction to Data Camp
+ready: true
 ---
+
 
 As you embark on your journey into the realm of data science, acquiring a solid foundation in programming languages is essential. Among these, Python stands out as a pivotal tool for budding data scientists due to its simplicity and robust capabilities in data analysis and machine learning. To kickstart your Python learning journey, we highly recommend diving into the "Introduction to Python" course on DataCamp.
 

@@ -1,7 +1,9 @@
 ---
 _db_id: 55
 title: Web Development - part 2
+ready: true
 ---
+
 
 
 - {{< contentlink path="topics/basic-architecture-concepts" >}}

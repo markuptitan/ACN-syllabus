@@ -10,7 +10,9 @@ prerequisites:
   - topics/data-science-specific/intro-to-google-colab
 submission_type: repo
 title: A Visual History of Nobel Prize Winners
+ready: true
 ---
+
 
 You will need to download and add all the relevant files from [here](https://drive.google.com/drive/folders/1M_5uFtd4G4X1UqLLmxffdBq9U9PkaJft?usp=sharing) and add them to the repo supplied.
 

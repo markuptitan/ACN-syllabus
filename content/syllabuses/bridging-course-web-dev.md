@@ -1,7 +1,9 @@
 ---
 _db_id: 63
 title: Web dev bridging course
+ready: true
 ---
+
 
 ## Intro
 

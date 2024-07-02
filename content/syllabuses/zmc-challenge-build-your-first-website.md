@@ -7,7 +7,9 @@ blurb: In this challenge you'll learn the basics of web development and host you
 tags:
 - internal/zmc-challenge
 title: Build your own website and host it on the web!
+ready: true
 ---
+
 
 - {{< contentlink path="zmc-challenges/first-website/why-learn-web-development" >}}
 - {{< contentlink path="zmc-challenges/first-website/web-dev-languages" >}}
