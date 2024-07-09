@@ -5,7 +5,6 @@ title: How this course works
 ready: true
 ---
 
-
 This course has a number of components. Many things are optional, and some are required.
 
 If you only do what is required you will pass the course, but if you push yourself further by taking on the optional projects you will leave here with a higher level of skill, and you will be able to make more use of our education staff and support.

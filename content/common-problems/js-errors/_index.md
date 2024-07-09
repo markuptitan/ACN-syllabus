@@ -1,7 +1,6 @@
 ---
 _db_id: 842
 content_type: topic
-ready: true
 title: Javascript Error handling
 ---
 
