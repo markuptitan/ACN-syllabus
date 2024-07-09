@@ -1,9 +1,7 @@
 ---
 _db_id: 92
 title: Learner Onboarding
-ready: true
 ---
-
 
 - {{< contentlink path="onboarding/learners/welcome" >}}
 - {{< contentlink path="onboarding/learners/meet-the-team" >}}

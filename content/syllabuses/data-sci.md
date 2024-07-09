@@ -1,9 +1,7 @@
 ---
 title: "Data Science"
 _db_id: 2
-ready: true
 ---
-
 
 - {{< contentlink path="agile/agile-scrum" >}}
 - {{< contentlink path="topics/clean-code/python" >}}

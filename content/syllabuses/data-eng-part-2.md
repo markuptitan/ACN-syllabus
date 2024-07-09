@@ -1,9 +1,7 @@
 ---
 _db_id: 56
 title: Data Engineering - part 2
-ready: true
 ---
-
 
 - {{< contentlink path="projects/data-science-specific/data-wrangling" flavour="python" >}}
 - {{< contentlink path="topics/data-ethics-and-privacy" >}}

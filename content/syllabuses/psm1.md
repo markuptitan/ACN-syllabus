@@ -1,9 +1,7 @@
 ---
 _db_id: 98
 title: Professional Scrum Master
-ready: true
 ---
-
 
 - {{< contentlink path="scrum/scrum-intro" >}}
 - {{< contentlink path="scrum/scrum-master-pathway" >}}

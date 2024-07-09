@@ -1,9 +1,7 @@
 ---
 _db_id: 40
 title: Common tech bootcamp requirements
-ready: true
 ---
-
 
 - {{< contentlink path="projects/writing-assignment" flavour="" >}}
 - {{< contentlink path="environment-setup/git" >}}

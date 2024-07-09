@@ -1,9 +1,7 @@
 ---
 _db_id: 61
 title: Data Science boot camp - quick wins
-ready: true
 ---
-
 
 - {{< contentlink path="topics/solo-learn/python/intro-to-python/1-getting-started-with-python" >}}
 - {{< contentlink path="topics/solo-learn/python/intro-to-python/1-getting-started-with-python-project" >}}

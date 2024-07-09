@@ -1,9 +1,7 @@
 ---
 title: Web apps for data scientists
 _db_id: 32
-ready: true
 ---
-
 
 - {{< contentlink path="topics/django/why-datasci-should-learn-django" >}}
 - {{< contentlink path="topics/watch-this-space" >}}

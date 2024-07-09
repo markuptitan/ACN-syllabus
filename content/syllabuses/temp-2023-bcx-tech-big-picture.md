@@ -1,9 +1,7 @@
 ---
 title: Big picture of tech BCX
 _db_id: 100
-ready: true
 ---
-
 
 ## How the web works 
 

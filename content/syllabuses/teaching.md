@@ -1,9 +1,7 @@
 ---
 _db_id: 89
 title: Teaching
-ready: true
 ---
-
 
 - {{< contentlink path="teaching-curriculum/introducing-teach-like-a-champion" >}}
 - {{< contentlink path="teaching-curriculum/quick-familiarity-1" flavour="" >}}

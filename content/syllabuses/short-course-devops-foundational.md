@@ -1,9 +1,7 @@
 ---
 _db_id: 106
 title: DevOps Short Course – Foundational
-ready: true
 ---
-
 
 Welcome to the DevOps Short Course, the foundational level.
 

@@ -1,9 +1,7 @@
 ---
 _db_id: 104
 title: Kubernetes (A.K.A K8s)
-ready: true
 ---
-
 
 - {{< contentlink path="k8s/introduction" >}}
 

@@ -1,9 +1,7 @@
 ---
 title: Data Engineering - part 1
 _db_id: 4
-ready: true
 ---
-
 
 - {{< contentlink path="topics/solo-learn/python/python-intermediate/1-collection-types" >}}
 - {{< contentlink path="topics/solo-learn/python/python-intermediate/1-collection-types-project" >}}

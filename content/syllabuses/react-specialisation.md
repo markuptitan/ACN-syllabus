@@ -1,9 +1,7 @@
 ---
 title: React Specialisation
 _db_id: 30
-ready: true
 ---
-
 
 - {{< contentlink path="topics/web-frontend/react/intro-to-react" >}}
 - {{< contentlink path="topics/watch-this-space" >}}

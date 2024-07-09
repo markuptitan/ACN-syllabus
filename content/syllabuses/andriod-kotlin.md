@@ -1,9 +1,7 @@
 ---
 title: Android Development With Kotlin
 _db_id: 19
-ready: true
 ---
-
 
 ## Basic Introduction and Control Flow.
 

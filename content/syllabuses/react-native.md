@@ -1,7 +1,6 @@
 ---
 title: React Native
 _db_id: 82
-ready: true
 ---
 
 - {{< contentlink path="react-native/introduction" >}}

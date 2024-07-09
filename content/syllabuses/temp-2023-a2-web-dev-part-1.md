@@ -1,9 +1,7 @@
 ---
 _db_id: 102
 title: Web Development - part 1 - 2023 A2
-ready: true
 ---
-
 
 - {{< contentlink path="agile/agile-scrum" >}}
 - {{< contentlink path="topics/free-code-camp/javascript-data-structures-and-algorithms/1-basic-javascript/" >}}

@@ -1,9 +1,7 @@
 ---
 title: Java Systems Development - part 1
 _db_id: 7
-ready: true
 ---
-
 
 ## Java Part 1 & Part 2 Software Requirements
 - Ensure the ability to install:

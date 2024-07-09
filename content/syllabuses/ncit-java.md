@@ -1,9 +1,7 @@
 ---
 _db_id: 54
 title: NCIT - Java
-ready: true
 ---
-
 
 - {{< contentlink path="national-qualifications-framework/ncit/assessments/how-the-internet-works" >}}
 - {{< contentlink path="national-qualifications-framework/ncit/assessments/version-control" flavour="java" >}}

@@ -1,9 +1,7 @@
 ---
 _db_id: 83
 title: Data engineering boot camp (with automarked katas)
-ready: true
 ---
-
 
 - {{< contentlink path="projects/writing-assignment" flavour="" >}}
 - {{< contentlink path="coding_aptitude_assessment/coding_challenges/task_1" flavour="python" >}}

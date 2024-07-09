@@ -1,9 +1,7 @@
 ---
 title: iOS Mobile Development
 _db_id: 17
-ready: true
 ---
-
 
 ## Course Content Link
 
