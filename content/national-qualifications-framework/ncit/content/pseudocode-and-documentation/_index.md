@@ -39,13 +39,13 @@ tags:
 title: Pseudocode and documentation
 ---
 
-### 1. Why document?
+## 1. Why document?
 
 Documenting software is one of the most crucial, but often most neglected parts of the development process. Documenting your variables, functions, and entire programs is absolutely necessary if you are to succeed as a coder. Various sources will tell you to dedicate at least 10% of your development time to documentation. That is reasonable advice, and should be adopted when you are planning the development of any program or website.
 
 After we cover some best practices for documentation, we will cover the general process for documentation (listed below). Each of these will be covered in detail in the following sections.
 
-#### Documentation Process
+### Documentation Process
 
 1. Pseudocode
 
@@ -57,9 +57,9 @@ After we cover some best practices for documentation, we will cover the general 
 
 5. Develop user documentation (API docs) and technical docs (for other coders and administrators)
 
-### 2. Best practices
+## 2. Best practices
 
-#### Documentation requirements
+### Documentation requirements
 
 The first step of documentation should take place before you write a single line of code. If your organization follows a “Waterfall” process, there will be several planning and “vision” documents that outline all the resources needed and plans for development. However, in the Agile project management process, teams produce far fewer documents before development starts. The product owner may create a document outlining user requirements and goals for the project, but most of the documentation will come during and after development.
 
@@ -73,7 +73,7 @@ The main reasons why people need the technical design document for their work:
 - For audit purposes.
 - As a training material for new people in the team.
 
-#### Agile documentation best practices:
+### Agile documentation best practices:
 
 **Only the relevant information**
 
@@ -97,7 +97,7 @@ Technical design documents have to be accessible and transparent. You need to ha
 
 For more info on Agile documentation can be found [here](https://easternpeak.com/blog/agile-documentation/).
 
-### 3. Pseudocode
+## 3. Pseudocode
 
 Once the general requirements and goals have been documented (or at least discussed and agreed upon by the team), you should start by writing pseudocode. Starting with pseudocode will help you think through all the functionality of your program without getting distracted by the technical details of how you will implement it. The added bonus of creating good pseudocode for all the functions of your program is that pseudocode is easily converted into comments.
 

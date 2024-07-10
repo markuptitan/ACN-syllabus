@@ -5,9 +5,7 @@ flavours:
 - none
 submission_type: link
 title: Business selfie
-ready: true
 ---
-
 
 DEPRECATED
 

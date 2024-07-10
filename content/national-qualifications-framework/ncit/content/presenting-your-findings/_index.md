@@ -40,14 +40,14 @@ tags:
 title: Presenting your findings
 ---
 
-### 1. Introduction to presentations
+## 1. Introduction to presentations
 
 Presentations are a part of most real-life work environments. They are an effective tool in a variety of different situations; you may have to give a presentation as an employee in a large company where you need to communicate your work and goals with your colleagues and managers, or it may be to get funding for a project. Either way, it is a valuable skill to be able to summarise and communicate your ideas to other people concisely and understandably.
 
 
 They can take different forms and the format will vary but for this project, you will be creating a 10-minute presentation of your report.
 
-#### Target Audience
+### Target Audience
 
 When presenting to other people you must always think about who you’re communicating with; what do they need to know and how will they best understand the information? These questions are especially important in the computer industry because not everyone involved in your projects will be interested or familiar with the technical aspects of your work. We also looked at this question when writing reports.
 
@@ -61,7 +61,7 @@ Ask yourself these questions:
 
 As you will be presenting your report think about what information you might present to get people so interested in your report that they want to read the whole document.
 
-### 2. Preparing a presentation
+## 2. Preparing a presentation
 
 Much of the preparation for your presentation will have been done while creating your report. The process for both is the same, but the main difference is that a presentation won’t go as in-depth as a report and is more of a summary of information. Most presentations will be between 10 and 30 minutes long (yours should only be 10). While this may sound like a long time, you will be surprised how quickly time can go when you talk, so the fundamental skill of preparing a presentation is choosing the information to share and thinking about how you will present it.
 
@@ -74,7 +74,7 @@ Which parts are necessary for the audience to understand your conclusion
 And how will you present that information; will you use bullet-point lists in a slideshow? Do you need diagrams/images? Are videos or sounds necessary? How much text will you put on the slides?
 
 
-#### Don’ts
+### Don’ts
 
 **Don’t leave it to the last minute**
 
@@ -96,9 +96,9 @@ You want people to understand what you’re saying, but not speak so slowly that
 
 Try to keep the focus on what you’re saying rather than the visuals. They should be there only to aid you, not distract from what you’re saying.
 
-### 3. Presentation tools
+## 3. Presentation tools
 
-#### Powerpoint and Google Slides
+### Powerpoint and Google Slides
 
 There are different tools you can use to help you present information. For this project, we will be using a slideshow based tool. You can either use Powerpoint if you have the software installed on your computer, or Google Slides, which is a free web application that provides similar functionality.
 
@@ -116,7 +116,7 @@ You will be using these programs to create a slideshow that will run alongside y
 
 Think about how the slides will complement what you’re actually saying. A good presentation involves skilled public speaking and a planned presentation.
 
-### 4. Presentation skills
+## 4. Presentation skills
 
 Mastering public speaking can be crucial to the growth of your business and the success of your projects. As we have discussed, you need to be able to talk about your products and communicate your ideas effectively because there will always be other people involved in your work, be it customers, investors or colleagues. It takes time, practice and experience but here are some tips to get you started:
 
@@ -145,7 +145,7 @@ Are your slides online? On a USB stick? If you have sound and video, do you have
 
 Have a Questions and Answers (Q & A) section at the end to give the audience a chance to clear up any doubts and to show that you really know what you’re talking about. Try to anticipate the kinds of questions they might have and be prepared with answers.
 
-### 5. Feedback and Improving
+## 5. Feedback and Improving
 
 
 In presentation etiquette, it all comes down to one thing: valuing your audience. This means speaking directly to them, having all the information prepared and practised, and above all, being worthwhile of their time. If you remain focused on providing value to your audience, you’ll find yourself giving successful presentations every time. You might not always give the best presentation but you will always learn something and be able to improve. Here are some ways you can keep improving:
@@ -172,7 +172,7 @@ Communicate with your audience. You don’t have to be very formal. Ask them if 
 
 Feedback is crucial to learning any skill. When you have worked on something closely and for a long time it can be hard to step back and assess it objectively. Like with your report which you gave to classmates to proofread, ask for constructive criticism from a friend or, depending on your audience after the presentation ask your audience how they think it went. You could even ask them to anonymously write their feedback down.
 
-### 6. Next steps
+## 6. Next steps
 
 While feedback is one way of gauging how successful your presentation has been, you might also want to think about what you were hoping to achieve from the presentation and whether you succeeded in that. In the context of presenting your report, here are some questions you might ask yourself:
 
