@@ -3,7 +3,7 @@ _db_id: 187
 content_type: project
 flavours:
 - bash
-ready: true
+ready: false
 submission_type: repo
 title: Advanced Linux challenges
 todo: 2.4 doesn't make sense

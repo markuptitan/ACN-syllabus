@@ -6,5 +6,4 @@ flavours:
 - any_frontend_framework
 submission_type: repo
 title: Validating user input for web
-ready: true
 ---

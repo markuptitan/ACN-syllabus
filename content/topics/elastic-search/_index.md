@@ -2,9 +2,7 @@
 _db_id: 68
 content_type: topic
 title: ElasticSearch
-ready: true
 ---
-
 
 ## What is ElasticSearch?
 

@@ -17,11 +17,7 @@ ready: true
 ---
 
 
-### Submission guidelines
-
-While you work through this project you will save your script commands in a number of files called shell scripts, name them by task and sub task number i.e. 1-2, they have the extension .sh. You'll be handing those in later. In general we use a tool called Git and a platform called Github for project submissions but this will be covered later in the course.
-
-### Task 1 : Basic Task
+## Task 1 : Basic Task
 
 Open a linux terminal. Now do the following from the command line.
 
@@ -32,11 +28,11 @@ Open a linux terminal. Now do the following from the command line.
 5. Make a new file called `README.md` (you can use the `touch` command to do this)
 6. Make a copy of `README.md`, name your copy `CHANGELOG.md`
 
-#### Resources
+### Resources
 
 1. [Linux basic commands](https://www.makeuseof.com/tag/an-a-z-of-linux-40-essential-commands-you-should-know/)
 
-### Task 2 : Absolute and Relative Paths
+## Task 2 : Absolute and Relative Paths
 
 Create an empty file named `exercise.md` and move this file to the `/tmp` directory, using a relative pathname. Then, delete this file using an absolute pathname.
 
@@ -45,7 +41,7 @@ Create an empty file named `exercise.md` and move this file to the `/tmp` di
 1. [Paths in linux](http://www.linfo.org/path.html)
 2. [Absolute and Relative Paths (video)](https://www.youtube.com/watch?v=ephId3mYu9o)
 
-### Task 3 : cat commands
+## Task 3 : cat commands
 
 1. Create 3 files namely `umuzi.md`, `learners.md` and `cohort.md`.
 2. Fill all 3 files with contents of your choice. Maybe some nice poems about you MUB experience.
@@ -53,22 +49,22 @@ Create an empty file named `exercise.md` and move this file to the `/tmp` di
 4. Write a script that takes the content of `umuzi.md`, `cohort.md` and `learners.md` to print/store the output into a new file named `summary.md`.
 5. use the command line to append the words "The End" to `summary.md`. Be careful not to overwrite the exiting contend
 
-#### Resources
+### Resources
 
 1. [Standard File Streams (video)](https://www.youtube.com/watch?v=shFMEJJ_fpU)
 2. [The cat commands](http://www.linfo.org/cat.html)
 
-### Task 7 Text editor
+## Task 7 Text editor
 
 1. Using `nano` text editor create a file named `my_bio.md`
 2. Save the file and close the editor
 3. Create a folder named `my_files` and move `my_bio.md` within.
 
-#### Resources
+### Resources
 
 1. https://www.lifewire.com/beginners-guide-to-nano-editor-3859002
 
-### Task 8 Update and Upgrade
+## Task 8 Update and Upgrade
 
 1. Update your system with `sudo apt update`.
 2. Use the `sudo apt upgrade` to apply the updates downloaded and select Y for Yes.
@@ -84,3 +80,7 @@ Create an empty file named `exercise.md` and move this file to the `/tmp` di
 ### Resources
 
 1. https://www.youtube.com/watch?v=o2JyzCH8tlM
+
+## Submission guidelines
+
+While you work through this project you will save your script commands in a number of files called shell scripts, name them by task and sub task number i.e. 1-2, they have the extension .sh. You'll be handing those in later. In general we use a tool called Git and a platform called Github for project submissions but this will be covered later in the course.

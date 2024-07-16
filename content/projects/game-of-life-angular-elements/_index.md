@@ -6,5 +6,4 @@ flavours:
 - typescript
 submission_type: repo
 title: 'Game of life: Angular elements'
-ready: true
 ---

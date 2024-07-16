@@ -2,9 +2,7 @@
 _db_id: 142
 content_type: topic
 title: Version Control & Scrum using Trello & Github
-ready: true
 ---
-
 
 ## Scrum roles
 

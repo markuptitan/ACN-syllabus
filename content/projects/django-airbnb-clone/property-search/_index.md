@@ -13,9 +13,7 @@ prerequisites:
   soft: []
 submission_type: continue_repo
 title: CloudBnb - Property Search
-ready: true
 ---
-
 
 `/search/`
 

@@ -10,9 +10,7 @@ submission_type: repo
 tags:
 - sql
 title: SQL Library exercise
-ready: true
 ---
-
 
 ## Introduction
 

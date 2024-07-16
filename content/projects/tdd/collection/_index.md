@@ -6,8 +6,6 @@ flavours:
 pre: '<b>MEDIUM: </b>'
 submission_type: nosubmit
 title: lots and lots of tdd katas
-ready: true
 ---
-
 
 http://codingdojo.org/kata/

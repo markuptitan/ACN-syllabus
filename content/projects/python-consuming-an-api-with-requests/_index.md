@@ -5,5 +5,4 @@ flavours:
 - python
 submission_type: repo
 title: consuming APIs with the requests module
-ready: true
 ---
