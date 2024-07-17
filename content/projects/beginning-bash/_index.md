@@ -61,5 +61,5 @@ Please follow the following instructions to submit your work:
 
 ## Instructions for reviewers
 
-1. Make sure the markdown files are named correctly
-2. Make sure each file has the correct format
+- Make sure the markdown files are named correctly
+- Make sure each file has the correct format
