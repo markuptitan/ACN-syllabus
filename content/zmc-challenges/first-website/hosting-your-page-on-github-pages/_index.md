@@ -13,7 +13,9 @@ link_name: Github page url
 link_regex: https://.*\.github\.io/(?!.*\.html/?$).*
 submission_type: link
 title: Hosting your website on the web
+ready: true
 ---
+
 
 In this project, you are going to take the `index.html` page you made in the previous step and turn it into an actual website. You'll be using a thing called Github pages to get this right.
 

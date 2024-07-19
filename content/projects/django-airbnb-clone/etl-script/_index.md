@@ -11,7 +11,9 @@ prerequisites:
   soft: []
 submission_type: continue_repo
 title: Write an ETL script to populate the database
+ready: true
 ---
+
 
 Let's imagine that you have contacted a person who owns a bunch of properties and they want to add all their stuff to CloudBnb in bulk. You could get someone do do manual data capturing to get all the data into your db, but that would be pretty soul-destroying work. And manual data capture is prone to human error.
 

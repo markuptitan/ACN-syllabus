@@ -24,7 +24,7 @@ ncit_specific_outcomes:
   title: Explain the relationship between a business and its information needs.
 ncit_standards:
 - 114050
-ready: false
+ready: true
 tags:
 - ncit
 - business

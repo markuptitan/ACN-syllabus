@@ -6,7 +6,9 @@ blurb: 'We humbly request a bit of feedback. Our goal here is to help as many pe
   it if you filled in the survey in this step. '
 content_type: topic
 title: How did we do? What should we do next?
+ready: true
 ---
+
 
 We want to help as many people as possible. In order to do so, we need to understand the people we are trying to help. 
 

@@ -11,6 +11,7 @@ submission_type: repo
 tags:
 - skill/combined_concept_projects
 title: Bank accounts - part 1
+ready: true
 ---
 
 You have just been hired by a fin-tech startup. Your mission is to build a bank. It's going to be a cute little bank, real banks are waaaay more complicated.

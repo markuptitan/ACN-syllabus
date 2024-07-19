@@ -72,7 +72,7 @@ ncit_specific_outcomes:
 ncit_standards:
 - 114076
 - 115358
-ready: false
+ready: true
 tags:
 - research
 - ncit

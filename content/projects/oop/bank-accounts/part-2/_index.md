@@ -11,6 +11,7 @@ submission_type: continue_repo
 tags:
 - skill/combined_concept_projects
 title: Bank accounts - part 2
+ready: true
 ---
 
 In the last part of this project you created a BankAccount, now it is time to create a Bank.

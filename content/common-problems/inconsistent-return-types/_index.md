@@ -1,6 +1,7 @@
 ---
 _db_id: 839
 content_type: topic
+ready: true
 title: Inconsistent return types
 ---
 

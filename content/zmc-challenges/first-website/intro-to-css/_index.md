@@ -12,7 +12,9 @@ link_name: Github page url
 link_regex: https://.*\.github\.io/(?!.*\.html/?$).*
 submission_type: link
 title: Introducing CSS
+ready: true
 ---
+
 
 Earlier on in this challenge, we mentioned that CSS can be used to give your HTML style.
 

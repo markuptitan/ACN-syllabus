@@ -6,7 +6,9 @@ blurb: There are lots and lots of different kinds of coding. Web development is 
   learning resources so you can take yourself to the next level
 content_type: topic
 title: Continue learning
+ready: true
 ---
+
 
 Well done! You've finished all the projects in this challenge.  We hope you pushed yourself and learned a bunch!
 

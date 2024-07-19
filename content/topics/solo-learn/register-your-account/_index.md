@@ -7,7 +7,9 @@ submission_type: link
 tags:
 - solo-learn
 title: Register for a Sololearn Account
+ready: true
 ---
+
 
 Please register for Sololearn. https://www.sololearn.com/
 

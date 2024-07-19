@@ -5,7 +5,9 @@ blurb: Web dev is cool because you don't need to be a super expert in any part o
   that you can start writing basic websites with simple content
 content_type: topic
 title: The programming languages of the web
+ready: true
 ---
+
 
 To understand web development, you need to understand a bit about 3 different languages: HTML, CSS and JavaScript.
 

@@ -12,4 +12,5 @@ prerequisites:
   soft: []
 submission_type: continue_repo
 title: Visualise your data with plotly.py
+ready: true
 ---

@@ -3,7 +3,7 @@ _db_id: 398
 content_type: project
 flavours:
 - none
-ready: false
+ready: true
 submission_type: link
 tags:
 - free-code-camp
