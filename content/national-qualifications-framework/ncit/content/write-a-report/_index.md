@@ -91,7 +91,7 @@ The basic format for an outline uses an alternating series of numbers and letter
 
 Start your outline with a very brief description of each topic/section. Read through this and see if it makes sense. If it doesn’t, rearrange or add more topics to your outline until it makes sense. Then, if the order seems logical, continue to fill in the outline with more details. The more detail you include in your outline, the easier it will be to write the full report.
 
-See a few examples here: http://www.austincc.edu/tmthomas/sample%20outline%201.htm
+See a few examples here: https://www2.austincc.edu/tmthomas/sample%20outline%201.htm
 
 Once you’ve completed your outline you can start with writing your paper. Use your outline to create the appropriate headings for your paper and then start expanding upon the big ideas with full sentences (and images, if necessary).
 
@@ -201,10 +201,10 @@ You will be able to do this easily using http://www.easybib.com. When you create
 
 Below are some example reports. Remember that they may be using a different referencing system and dealing with a completely different discipline.
 
-https://www.cibse.org/getmedia/81bb2666-9afd-4a10-8431-d8e948fbda3d/Technical-Report-4-CEng.pdf.aspx
+[Example 1](https://go.cibse.org/technical-report-ceng4?_gl=1*13mg1c8*_gcl_au*MjU4ODQwNDA1LjE3MjE5MDE1Nzc.*_ga*ODc3MzQ4NTg0LjE3MjE5MDE1Nzg.*_ga_3DLX2C630B*MTcyMTkwMTU3Ny4xLjEuMTcyMTkwMTg2OC42MC4wLjA.)
 
 
-https://www.cibse.org/getmedia/c0758775-08ef-4cb9-9b8a-169074be5ee5/Technical-Report-1-CEng.pdf.aspx 
+[Example 2](https://go.cibse.org/technical-report-ceng1?_gl=1*ktg2xi*_gcl_au*MjU4ODQwNDA1LjE3MjE5MDE1Nzc.*_ga*ODc3MzQ4NTg0LjE3MjE5MDE1Nzg.*_ga_3DLX2C630B*MTcyMTkwMTU3Ny4xLjEuMTcyMTkwMTg2OC42MC4wLjA.)
 
 ### First Draft
 
