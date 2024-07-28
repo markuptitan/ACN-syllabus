@@ -12,7 +12,7 @@ learning_outcomes:
 - web_dev_indepth_tdd
 prerequisites:
   hard:
-  - sql/shop-project
+  - sql/shop-project/part-1
   - topics/node-and-sql/
   - projects/nodejs/file-io
   - topics/unit-testing-mocks-and-spies

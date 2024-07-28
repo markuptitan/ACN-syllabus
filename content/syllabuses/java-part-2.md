@@ -10,7 +10,7 @@ title: Java Systems Development - part 2
 - {{< contentlink path="topics/data-ethics-and-privacy" >}}
 - {{< contentlink path="projects/tdd/string-calculator-part-1" flavour="java" >}}
 - {{< contentlink path="projects/oop/bank-accounts/part-2" flavour="java" >}}
-- {{< contentlink path="sql/shop-project" >}}
+- {{< contentlink path="sql/shop-project/part-1" >}}
 - {{< contentlink path="topics/data-infrastructure/database-comparison/" >}}
 - {{< contentlink path="projects/java-specific/collections" flavour="java" >}}
 - {{< contentlink path="projects/java-specific/data-structures" flavour="java" >}}

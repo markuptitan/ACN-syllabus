@@ -5,7 +5,7 @@ prerequisites:
   hard:
   - projects/data-science-specific/data-wrangling
   - projects/understanding-map-reduce
-  - sql/shop-project/
+  - sql/shop-project/part-1
   soft: []
 ready: true
 title: Python and Spark
