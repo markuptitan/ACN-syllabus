@@ -44,6 +44,6 @@ title: Web Development - part 1 - 2023 A2
 - {{< contentlink path="topics/free-code-camp/responsive-web-design/7-css-grid" >}}
 - {{< contentlink path="topics/js-and-node-specific/node" >}}
 - {{< contentlink path="language-agnostic/validate-id-number" flavour="javascript" >}}
-- {{< contentlink path="sql/shop-project/part-1" flavour="" >}}
+- {{< contentlink path="sql/shop-project" flavour="" >}}
 - {{< contentlink path="projects/nodejs/express-forms" flavour="javascript" >}}
 - {{< contentlink path="projects/understanding-loops" flavour="javascript" >}}

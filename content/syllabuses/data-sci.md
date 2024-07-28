@@ -46,7 +46,7 @@ _db_id: 2
 - {{< contentlink path="topics/solo-learn/python/python-intermediate/5-working-with-files-project" >}}
 - {{< contentlink path="projects/github-api-consume/part1" flavour="python" >}}
 - {{< contentlink path="projects/data-science-specific/dashboards/plotly_dashboards" flavour="python" >}}
-- {{< contentlink path="sql/shop-project/part-1" >}}
+- {{< contentlink path="sql/shop-project/" >}}
 - {{< contentlink path="projects/data-science-specific/logistic-regression/breast-cancer"  flavour="python" >}}
 - {{< contentlink path="projects/understanding-loops" flavour="python" >}}
 - {{< contentlink path="topics/optimizations-and-big-o/" >}}

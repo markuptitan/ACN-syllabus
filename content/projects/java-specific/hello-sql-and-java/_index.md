@@ -7,7 +7,7 @@ prerequisites:
   hard:
   - projects/java-specific/introduction-to-spring-boot/part-3
   - topics/java-specific/jdbc-templates
-  - sql/shop-project/part-1
+  - sql/shop-project
   soft: null
 ready: true
 submission_type: repo
@@ -24,7 +24,7 @@ In this project we wil re-visit you SQl project. Instead of only using scripts t
 
 ## Part 1
 
-1. Revise {{< contentlink path="sql/shop-project/part-1/" >}} and make sure all tables are created and populated
+1. Revise {{< contentlink path="sql/shop-project/" >}} and make sure all tables are created and populated
 
 2. Use vanilla Java **(no Springboot)** connect to your database and perform the queries in part 2 but only number [1-7]
 

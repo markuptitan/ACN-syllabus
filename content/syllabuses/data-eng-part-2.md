@@ -14,7 +14,7 @@ title: Data Engineering - part 2
 - {{< contentlink path="projects/email-inspirational-quote/part-4" flavour="python" >}}
 - {{< contentlink path="projects/github-api-consume/part2" flavour="python" >}}
 - {{< contentlink path="topics/python-specific/recursion" >}}
-- {{< contentlink path="sql/shop-project/part-1" >}}
+- {{< contentlink path="sql/shop-project/" >}}
 - {{< contentlink path="topics/tech-terminology" >}}
 - {{< contentlink path="topics/data-infrastructure/database-comparison/" >}}
 - {{< contentlink path="projects/python-specific/sqlalchemy-migrations" flavour="python" >}}

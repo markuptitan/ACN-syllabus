@@ -42,4 +42,4 @@ title: Capitec Data analytics
 - {{< contentlink path="topics/solo-learn/python/python-intermediate/5-working-with-files-project" >}}
 - {{< contentlink path="projects/github-api-consume/part1" flavour="python" >}}
 - {{< contentlink path="projects/data-science-specific/dashboards/plotly_dashboards" flavour="python" >}}
-- {{< contentlink path="sql/shop-project/part-1" flavour="" >}}
+- {{< contentlink path="sql/shop-project" flavour="" >}}
