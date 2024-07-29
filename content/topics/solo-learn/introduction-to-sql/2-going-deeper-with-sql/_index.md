@@ -1,11 +1,12 @@
 ---
+_db_id: 1098
 content_type: topic
 flavours:
 - none
 prerequisites:
- hard:
- - topics/solo-learn/introduction-to-sql/1-getting-started-with-sql
- soft: []
+  hard:
+  - topics/solo-learn/introduction-to-sql/1-getting-started-with-sql
+  soft: []
 ready: true
 tags:
 - sql
