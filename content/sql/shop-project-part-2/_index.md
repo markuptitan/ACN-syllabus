@@ -4,7 +4,7 @@ flavours:
 - none
 prerequisites:
   hard:
-  - sql/shop-project/
+  - sql/shop-project
   soft: []
 story_points: 3
 from_repo: sql/shop-project
