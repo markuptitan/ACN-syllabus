@@ -11,7 +11,7 @@ submission_type: continue_repo
 tags:
 - sql
 - skill/databases
-ready: false
+ready: true
 title: Shop Database using sql - part 2
 ---
 
